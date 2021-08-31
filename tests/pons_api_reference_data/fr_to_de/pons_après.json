@@ -1,0 +1,679 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s",
+                        "headword_full": "apr\u00e8s    <span class=\"phonetics\">[ap\u0280\u025b]</span> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "1. apr\u00e8s <span class=\"sense\">(perspective temporelle)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "nach <span class=\"object-case\">+Dat</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">peu <strong class=\"tilde\">apr\u00e8s</strong> ...</span>",
+                                        "target": "kurz nach ..."
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">apr\u00e8s</strong> s&#39;\u00eatre bien repos\u00e9</span>",
+                                        "target": "nachdem er sich ausgeruht hatte"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. apr\u00e8s:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(plus loin que)</span>",
+                                        "target": "nach <span class=\"object-case\">+Dat</span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(derri\u00e8re)</span>",
+                                        "target": "hinter <span class=\"object-case\">+Dat</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">courir <strong class=\"tilde\">apr\u00e8s</strong> l&#39;autobus</span>",
+                                        "target": "dem Bus hinterherrennen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">apr\u00e8s</strong> toi/vous !</span>",
+                                        "target": "[bitte] nach dir/nach Ihnen!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. apr\u00e8s <span class=\"sense\">(dans un classement)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "nach <span class=\"object-case\">+Dat</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sa famille passe <strong class=\"tilde\">apr\u00e8s</strong> sa carri\u00e8re</span>",
+                                        "target": "seine Familie kommt nach seiner Karriere"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. apr\u00e8s <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(contre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">crier/aboyer <strong class=\"tilde\">apr\u00e8s</strong> <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "mit <acronym title=\"jemandem\">jdm</acronym> schimpfen/<acronym title=\"jemanden\">jdn</acronym> anbellen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre furieux/en avoir <strong class=\"tilde\">apr\u00e8s</strong> <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "auf <acronym title=\"jemanden\">jdn</acronym> w\u00fctend sein/sich mit <acronym title=\"jemandem\">jdm</acronym> anlegen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. apr\u00e8s <span class=\"sense\">(chaque)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">semaine <strong class=\"tilde\">apr\u00e8s</strong> semaine, jour <strong class=\"tilde\">apr\u00e8s</strong> jour</span>",
+                                        "target": "Woche f\u00fcr Woche, Tag f\u00fcr Tag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">page <strong class=\"tilde\">apr\u00e8s</strong> page</span>",
+                                        "target": "Seite f\u00fcr Seite"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. apr\u00e8s <span class=\"sense\">(selon)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;apr\u00e8s</strong> <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "nach <acronym title=\"jemandem\">jdm</acronym>/<acronym title=\"etwas\">etw</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;apr\u00e8s</strong> moi</span>",
+                                        "target": "meiner Meinung nach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">comprendre <strong class=\"tilde\">d&#39;apr\u00e8s</strong> un regard que</span>",
+                                        "target": "mit einem Blick erkennen, dass"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "apr\u00e8s",
+                        "headword_full": "apr\u00e8s    <span class=\"phonetics\">[ap\u0280\u025b]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. apr\u00e8s:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(plus tard, ensuite)</span>",
+                                        "target": "danach"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(plus tard, ensuite)</span>",
+                                        "target": "darauf"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(plus tard, ensuite)</span>",
+                                        "target": "sp\u00e4ter"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong> <span class=\"sense\">(par la suite)</span>",
+                                        "target": "nachher"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pas maintenant, mais <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "jetzt nicht, aber nachher"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">aussit\u00f4t <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "gleich danach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">longtemps <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "viel sp\u00e4ter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">longtemps <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "lange [Zeit] danach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">peu <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "bald  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> kurz]</span>  darauf"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. apr\u00e8s <span class=\"sense\">(plus loin, derri\u00e8re)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "dahinter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. apr\u00e8s <span class=\"sense\">(dans un classement)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "danach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le reste vient <strong class=\"tilde\">apr\u00e8s</strong></span>",
+                                        "target": "der Rest kommt danach"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. apr\u00e8s <span class=\"sense\">(\u00e0 part \u00e7a)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "ansonsten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. apr\u00e8s <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(\u00e0 la suite de)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s</strong>",
+                                        "target": "hinterher"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. apr\u00e8s <span class=\"sense\">(qui suit)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "danach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "darauf"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la page <strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "die Seite danach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la page <strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "die n\u00e4chste Seite"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">prendre le train <strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "den Zug danach  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> den n\u00e4chsten Zug]</span>  nehmen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le jour/la semaine <strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "am Tag/in der Woche darauf <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> danach]</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le jour/la semaine <strong class=\"tilde\">d&#39;apr\u00e8s</strong></span>",
+                                        "target": "am n\u00e4chsten Tag/in der n\u00e4chsten Woche"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">et <strong class=\"tilde\">apr\u00e8s?</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "[na] und? <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">et <strong class=\"tilde\">apr\u00e8s?</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "was ist schon dabei? <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">apr\u00e8s</strong> tout</span>",
+                                        "target": "schlie\u00dflich"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "apr\u00e8s",
+                        "headword_full": "apr\u00e8s    <span class=\"phonetics\">[ap\u0280\u025b]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">apr\u00e8s</strong> que <acronym title=\"quelqu'un\">qn</acronym> a [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> ait] fait <acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "nachdem <acronym title=\"jemand\">jd</acronym> <acronym title=\"etwas\">etw</acronym> getan hat"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "\u00e2pre",
+                        "headword_full": "\u00e2pre    <span class=\"phonetics\">[\u0251p\u0280]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. \u00e2pre <span class=\"sense\">(qui racle la gorge)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong>",
+                                        "target": "herb"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. \u00e2pre <span class=\"sense\">(d\u00e9sagr\u00e9ablement rude)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">froid</span>",
+                                        "target": "bitter"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">vent, voix</span>",
+                                        "target": "rau"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">hiver</span>",
+                                        "target": "streng"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">hiver</span>",
+                                        "target": "hart"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">ton</span>",
+                                        "target": "barsch"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">ton</span>",
+                                        "target": "schroff"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. \u00e2pre <span class=\"sense\">(dur)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">discussion, critique</span>",
+                                        "target": "heftig"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">lutte, concurrence, vie</span>",
+                                        "target": "hart"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e2pre</strong> <span class=\"collocator\">d\u00e9termination, r\u00e9solution</span>",
+                                        "target": "eisern"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-Bourse",
+                        "headword_full": "apr\u00e8s-Bourse    <span class=\"phonetics\">[ap\u0280\u025bbu\u0280s]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"topic\"><acronym title=\"finance\">FIN</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-Bourse</strong>",
+                                        "target": "Nachb\u00f6rse <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-demain",
+                        "headword_full": "apr\u00e8s-demain    <span class=\"phonetics\">[ap\u0280\u025bdm\u025b\u0342]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-demain</strong>",
+                                        "target": "\u00fcbermorgen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-guerre",
+                        "headword_full": "apr\u00e8s-guerre   <span class=\"flexion\">&lt;apr\u00e8s-guerres&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025bg\u025b\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-guerre</strong>",
+                                        "target": "Nachkriegszeit <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">les ann\u00e9es <strong class=\"tilde\">d&#39;apr\u00e8s-guerre</strong></span>",
+                                        "target": "die Nachkriegsjahre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-midi",
+                        "headword_full": "apr\u00e8s-midi   <span class=\"flexion\">&lt;apr\u00e8s-midis&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025bmidi]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym> o <acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-midi</strong>",
+                                        "target": "Nachmittag <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cet [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> cette] <strong class=\"tilde\">apr\u00e8s-midi</strong></span>",
+                                        "target": "heute Nachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">[dans] <strong class=\"tilde\">l&#39;apr\u00e8s-midi</strong></span>",
+                                        "target": "am Nachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">en fin <strong class=\"tilde\">d&#39;apr\u00e8s-midi</strong></span>",
+                                        "target": "am Sp\u00e4tnachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00e0 quatre heures de <strong class=\"tilde\">l&#39;apr\u00e8s-midi</strong></span>",
+                                        "target": "um vier Uhr nachmittags"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">programme de <strong class=\"tilde\">l&#39;apr\u00e8s-midi</strong></span>",
+                                        "target": "Nachmittagsprogramm <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "apr\u00e8s-midi",
+                        "headword_full": "apr\u00e8s-midi    <span class=\"phonetics\">[ap\u0280\u025bmidi]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mardi <strong class=\"tilde\">apr\u00e8s-midi</strong></span>",
+                                        "target": "[am] Dienstagnachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">hier/demain <strong class=\"tilde\">apr\u00e8s-midi</strong></span>",
+                                        "target": "gestern/morgen Nachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tous les lundis <strong class=\"tilde\">apr\u00e8s-midi</strong></span>",
+                                        "target": "jeden Montagnachmittag"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">tous les lundis <strong class=\"tilde\">apr\u00e8s-midi</strong></span>",
+                                        "target": "montagnachmittags"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-mur",
+                        "headword_full": "apr\u00e8s-mur    <span class=\"phonetics\">[ap\u0280\u025bmy\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">l&#39;apr\u00e8s-mur</strong> [de Berlin]</span>",
+                                        "target": "die Zeit nach der Wende"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">l&#39;apr\u00e8s-mur</strong> [de Berlin]</span>",
+                                        "target": "die Nach-Wende-Zeit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-rasage",
+                        "headword_full": "apr\u00e8s-rasage   <span class=\"flexion\">&lt;apr\u00e8s-rasages&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025b\u0280\u0251za\u0292]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-rasage</strong>",
+                                        "target": "Rasierwasser <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-rasage</strong>",
+                                        "target": "Aftershave <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "apr\u00e8s-rasage",
+                        "headword_full": "apr\u00e8s-rasage    <span class=\"phonetics\">[ap\u0280\u025b\u0280\u0251za\u0292]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-rasage</strong> <span class=\"collocator\">lotion</span>",
+                                        "target": "Aftershave-"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-shampoing",
+                        "headword_full": "apr\u00e8s-shampoing<span class=\"headword_spelling\"><acronym title=\"French spelling reform, 1990\">NO</acronym></span>   <span class=\"flexion\">&lt;apr\u00e8s-shampoings&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025b\u0283\u0251\u0342pw\u025b\u0342]</span>, <span class=\"headword\">apr\u00e8s-shampooing<span class=\"headword_spelling\"><acronym title=\"traditional spelling\">OT</acronym></span></span> <span class=\"flexion\">&lt;apr\u00e8s-shampooings&gt;</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"sense\">(action, soin)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-shampoing</strong>",
+                                        "target": "Haarsp\u00fclung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-shampoing</strong>",
+                                        "target": "Pflegesp\u00fclung"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">se faire un apr\u00e8s-shampoing</span>",
+                                        "target": "sich  <span class=\"case\"><acronym title=\"dative\">dat</acronym></span>  eine Haarsp\u00fclung machen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">apr\u00e8s-shampoing traitant</span>",
+                                        "target": "Kurpackung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "apr\u00e8s-shampoing",
+                        "headword_full": "apr\u00e8s-shampoing<span class=\"headword_spelling\"><acronym title=\"French spelling reform, 1990\">NO</acronym></span>   <span class=\"flexion\">&lt;apr\u00e8s-shampoings&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025b\u0283\u0251\u0342pw\u025b\u0342]</span>, <span class=\"headword\">apr\u00e8s-shampooing<span class=\"headword_spelling\"><acronym title=\"traditional spelling\">OT</acronym></span></span> <span class=\"flexion\">&lt;apr\u00e8s-shampooings&gt;</span> <span class=\"wordclass\"><acronym title=\"apposition\">APPO</acronym></span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">cr\u00e8me apr\u00e8s-shampoing</span>",
+                                        "target": "Cremesp\u00fclung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-ski",
+                        "headword_full": "apr\u00e8s-ski   <span class=\"flexion\">&lt;apr\u00e8s-skis&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025bski]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-ski</strong>",
+                                        "target": "Schneestiefel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apr\u00e8s-ski</strong>",
+                                        "target": "Moonboot \u00ae  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> Snowboot]</span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apr\u00e8s-vente",
+                        "headword_full": "apr\u00e8s-vente   <span class=\"flexion\">&lt;<span class=\"info\"><acronym title=\"plural\">pl</acronym></span> apr\u00e8s-ventes&gt;</span>  <span class=\"phonetics\">[ap\u0280\u025bv\u0251\u0342t]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">service <strong class=\"tilde\">apr\u00e8s-vente</strong></span>",
+                                        "target": "Kundendienstabteilung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">service <strong class=\"tilde\">apr\u00e8s-vente</strong></span>",
+                                        "target": "Kundendienst <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">employ\u00e9(e) du service <strong class=\"tilde\">apr\u00e8s-vente</strong></span>",
+                                        "target": "Kundendienstmitarbeiter<span class=\"feminine\">(in)</span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">installateur(-trice) du service <strong class=\"tilde\">apr\u00e8s-vente</strong></span>",
+                                        "target": "Kundendienstmonteur<span class=\"feminine\">(in)</span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ci-apr\u00e8s",
+                        "headword_full": "ci-apr\u00e8s    <span class=\"phonetics\">[siap\u0280\u025b]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ci-apr\u00e8s</strong>",
+                                        "target": "[weiter] unten"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">ci-apr\u00e8s</strong>",
+                                        "target": "nachstehend"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "perfume",
+                        "headword_full": "perfume    <span class=\"phonetics\">[\u02c8p\u025c:fju:m, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8p\u025c:r-]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perfume</strong>",
+                                        "target": "parfum <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to put on <strong class=\"tilde\">perfume</strong></span>",
+                                        "target": "mettre du parfum"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "perfume",
+                        "headword_full": "perfume    <span class=\"phonetics\">[\u02c8p\u025c:fju:m, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8p\u025c:r-]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">perfume</strong>",
+                                        "target": "parfumer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

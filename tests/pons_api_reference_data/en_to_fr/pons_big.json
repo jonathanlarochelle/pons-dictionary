@@ -1,0 +1,279 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "big",
+                        "headword_full": "big   <span class=\"flexion\">&lt;-ger, -gest&gt;</span>  <span class=\"phonetics\">[b\u026ag]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. big:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big</strong> <span class=\"sense\">(large)</span>",
+                                        "target": "grand(e)"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">big</strong> <span class=\"sense\">(oversized)</span>",
+                                        "target": "gros(se)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">big</strong> game</span>",
+                                        "target": "gros gibier <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> drop in prices</span>",
+                                        "target": "une forte baisse des prix"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> eater</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "un gros mangeur"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be a <strong class=\"tilde\">big</strong> spender</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "d\u00e9penser beaucoup"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> tip</span>",
+                                        "target": "un gros pourboire"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">big</strong> toe</span>",
+                                        "target": "le gros orteil"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> budget film</span>",
+                                        "target": "un film \u00e0 gros budget"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">bigger</strong> the better</span>",
+                                        "target": "plus c&#39;est gros, meilleur c&#39;est"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">biggest-ever</strong> egg</span>",
+                                        "target": "le plus grand \u0153uf (jamais vu)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. big <span class=\"sense\">(grown-up)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big</strong> <span class=\"rhetoric\"><acronym title=\"also\">a.</acronym> <acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "grand(e)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">big</strong> boy/brother</span>",
+                                        "target": "grand gar\u00e7on/fr\u00e8re"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. big <span class=\"sense\">(important)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big</strong>",
+                                        "target": "grand(e)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">he&#39;s <strong class=\"tilde\">big</strong> in his country</span>",
+                                        "target": "il est c\u00e9l\u00e8bre dans son pays"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> shot</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "un gros bonnet"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">big</strong> day</span>",
+                                        "target": "un grand jour"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to have <strong class=\"tilde\">big</strong> ideas</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "avoir de grandes id\u00e9es"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">she&#39;s <strong class=\"tilde\">big</strong> [<span class=\"or\"><acronym title=\"or\">or</acronym></span> a <strong class=\"tilde\">big</strong> name] in finance</span>",
+                                        "target": "elle est connue dans le monde de la finance"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. big <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(great)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big</strong>",
+                                        "target": "super"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in a <strong class=\"tilde\">big</strong> way</span>",
+                                        "target": "quelque chose de bien"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">big</strong> on <acronym title=\"something\">sth</acronym></span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span>",
+                                        "target": "\u00eatre dingue de <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. big <span class=\"sense\">(generous)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">it&#39;s really <strong class=\"tilde\">big</strong> of <acronym title=\"somebody\">sb</acronym></span> <span class=\"rhetoric\"><acronym title=\"ironic, humorous\">iron hum</acronym></span>",
+                                        "target": "c&#39;est vraiment g\u00e9n\u00e9reux de la part de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to be too <strong class=\"tilde\">big</strong> for one&#39;s boots</span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "avoir la grosse t\u00eate"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">the <strong class=\"tilde\">big</strong> boys</span>",
+                                        "target": "les gros bonnets"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">big</strong> deal!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "et alors!"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">no <strong class=\"tilde\">big</strong> deal</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "c&#39;est rien"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">what&#39;s the <strong class=\"tilde\">big</strong> idea?</span> <span class=\"rhetoric\"><acronym title=\"ironic, humorous\">iron hum</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "qu&#39;est-ce que \u00e7a veux dire?"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to make it <strong class=\"tilde\">big</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "avoir du succ\u00e8s"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Big Apple",
+                        "headword_full": "Big Apple    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">Big Apple</strong></span>",
+                                        "target": "<span class=\"explanation\">New York</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Big Ben",
+                        "headword_full": "Big Ben",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Big Ben</strong>",
+                                        "target": "<span class=\"explanation\">\n\t\t\t<span class=\"emphasize\">Big Ben</span> \u00e9tait \u00e0 l&#39;origine le surnom donn\u00e9 \u00e0 la grande cloche de la tour de la &quot;Houses of Parliament&quot; coul\u00e9e en 1856, surnom h\u00e9rit\u00e9 du &quot;Chief Commissionner of Works&quot; de l&#39;\u00e9poque, Sir Benjamin Hall. De nos jours, ce nom est utilis\u00e9 pour d\u00e9signer la grande horloge et la tour. Le carillon de &quot;Big Ben&quot; sert de sonal \u00e0 certains journaux t\u00e9l\u00e9vis\u00e9s et radiophoniques.</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "big business",
+                        "headword_full": "big business    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big business</strong>",
+                                        "target": "les grandes entreprises <span class=\"number\">fpl</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">big business</strong></span>",
+                                        "target": "\u00eatre du business"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Big Easy",
+                        "headword_full": "Big Easy    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">Big Easy</strong></span>",
+                                        "target": "<span class=\"explanation\">La Nouvelle-Orl\u00e9ans</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "big top",
+                        "headword_full": "big top    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">big top</strong>",
+                                        "target": "chapiteau <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "appartement",
+                        "headword_full": "appartement    <span class=\"phonetics\">[apa\u0280t\u0259m\u0251\u0342]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. appartement <span class=\"sense\">(habitation)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appartement</strong>",
+                                        "target": "Wohnung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">appartement</strong> dans une r\u00e9sidence pour personnes \u00e2g\u00e9es</span>",
+                                        "target": "Seniorenwohnung"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. appartement <span class=\"sense\">(dans un h\u00f4tel)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">appartement</strong>",
+                                        "target": "Suite <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">appartement</strong>",
+                                        "target": "Appartement <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "appartement",
+                        "headword_full": "appartement    <span class=\"phonetics\">[apa\u0280t\u0259m\u0251\u0342]</span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">appartement</strong> de fonction</span>",
+                                        "target": "Dienstwohnung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "appartement",
+                        "headword_full": "appartement    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">appartement</strong> familial <span class=\"sense\">(pour une famille)</span> <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span>",
+                                        "target": "Wohnung f\u00fcr eine Familie <span class=\"grammar SUBST\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

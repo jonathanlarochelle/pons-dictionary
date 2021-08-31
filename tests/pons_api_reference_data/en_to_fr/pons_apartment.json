@@ -1,0 +1,77 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apartment",
+                        "headword_full": "apartment    <span class=\"phonetics\">[\u0259\u02c8p\u0251:tm\u0259nt, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -\u02c8p\u0251:rt-]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apartment</strong>",
+                                        "target": "appartement <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apartment building",
+                        "headword_full": "apartment building    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>, <span class=\"headword\">apartment house</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"sense\">(block of flats)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apartment building</strong>",
+                                        "target": "immeuble  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  (locatif)"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">apartment building</strong>",
+                                        "target": "conciergerie <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"region\"><acronym title=\"French-Canadianism\" class=\"Qu\u00e9bec\">Quebec</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "garden apartment",
+                        "headword_full": "garden apartment    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">garden apartment</strong>",
+                                        "target": "rez-de-jardin <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

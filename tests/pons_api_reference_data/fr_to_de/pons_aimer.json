@@ -1,0 +1,257 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "aimer",
+                        "headword_full": "aimer    <span class=\"phonetics\">[eme]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"sense\">(appr\u00e9cier)</span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">tu aimes ?</span>",
+                                        "target": "gef\u00e4llt es dir?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">moi, j&#39;aime</span>",
+                                        "target": "mir gef\u00e4llt&#39;s"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aimer",
+                        "headword_full": "aimer    <span class=\"phonetics\">[eme]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. aimer <span class=\"sense\">(\u00e9prouver de l&#39;amour)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong>",
+                                        "target": "lieben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">je t&#39;aime</span>",
+                                        "target": "ich liebe dich"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aimer <span class=\"sense\">(\u00e9prouver de l&#39;affection)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong>",
+                                        "target": "[gern] m\u00f6gen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. aimer <span class=\"sense\">(appr\u00e9cier)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong>",
+                                        "target": "m\u00f6gen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong>",
+                                        "target": "gernhaben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime que le travail aille vite</span>",
+                                        "target": "ich habe es gern  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> es gef\u00e4llt mir]</span> , wenn die Arbeit schnell geht"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. aimer <span class=\"sense\">(prendre plaisir \u00e0)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong> <span class=\"colloc\">(art, nature, risque)</span>",
+                                        "target": "lieben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bien <strong class=\"tilde\">aimer</strong> [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> <strong class=\"tilde\">aimer</strong> assez] <acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> m\u00f6gen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bien <strong class=\"tilde\">aimer</strong> [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> <strong class=\"tilde\">aimer</strong> assez] faire <acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> gern tun"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aimer</strong> le sport/les romans</span>",
+                                        "target": "gern Sport treiben/Romane lesen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aimer</strong> la lecture/les voyages</span>",
+                                        "target": "gern lesen/reisen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aimer</strong> chanter/danser</span>",
+                                        "target": "gern singen/tanzen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. aimer <span class=\"sense\">(trouver bon)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong>",
+                                        "target": "m\u00f6gen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong> <span class=\"colloc\">(nourriture)</span>",
+                                        "target": "gern essen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">aimer</strong> <span class=\"colloc\">(boisson)</span>",
+                                        "target": "gern trinken"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime le caf\u00e9</span>",
+                                        "target": "ich mag Kaffee"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime le caf\u00e9</span>",
+                                        "target": "ich trinke gern Kaffee"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. aimer <span class=\"sense\">(avoir besoin de)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">certaines plantes aiment l&#39;ombre</span>",
+                                        "target": "manche Pflanzen lieben den Schatten"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. aimer <span class=\"sense\">(d\u00e9sirer, souhaiter)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aimerais faire <acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "ich w\u00fcrde gern <acronym title=\"etwas\">etw</acronym> tun"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">il aimerait tant que tu le comprennes</span>",
+                                        "target": "er w\u00fcnscht sich  <span class=\"case\"><acronym title=\"dative\">dat</acronym></span>  so sehr, dass du ihn verstehst"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">elle aimerait bien [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> assez] que son projet aboutisse</span>",
+                                        "target": "sie m\u00f6chte gern, dass ihr Projekt Erfolg hat"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. aimer <span class=\"sense\">(pr\u00e9f\u00e9rer)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">aimer</strong> autant [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> mieux] <acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> lieber m\u00f6gen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime autant mardi</span>",
+                                        "target": "mir ist der Dienstag lieber"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aimerais mieux du fromage</span>",
+                                        "target": "ich h\u00e4tte lieber [etwas] K\u00e4se"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ah bon! J&#39;aime autant cela !</span>",
+                                        "target": "aha! [das ist  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> gef\u00e4llt mir]</span> ] schon besser!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime mieux le football que le tennis</span>",
+                                        "target": "mir gef\u00e4llt Fu\u00dfball besser als Tennis"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aime autant m&#39;en aller</span>",
+                                        "target": "ich gehe lieber weg"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">j&#39;aimerais autant [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> mieux] que tu viennes</span>",
+                                        "target": "mir w\u00e4re es lieber, wenn du k\u00e4mest <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> kommen w\u00fcrdest]</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">qui m&#39;aime me suive</span> <span class=\"rhetoric\"><acronym title=\"proverbial\">proverbial</acronym></span>",
+                                        "target": "mir nach"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "aimer",
+                        "headword_full": "aimer    <span class=\"phonetics\">[eme]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "pronomial verb",
+                        "arabs": [
+                            {
+                                "header": "1. aimer <span class=\"sense\">(d&#39;amour)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;aimer</strong></span>",
+                                        "target": "sich lieben"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. aimer <span class=\"sense\">(d&#39;amiti\u00e9)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;aimer</strong></span>",
+                                        "target": "sich m\u00f6gen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. aimer <span class=\"sense\">(se plaire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;aimer</strong> dans une robe/un r\u00f4le</span>",
+                                        "target": "sich  <span class=\"case\"><acronym title=\"dative\">dat</acronym></span>  in einem Kleid/einer Rolle gefallen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "aimer",
+                        "headword_full": "aimer    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "qui s&#39;aime se taquine/se chamaille <span class=\"grammar VERB\"><acronym title=\"reflexive\">refl</acronym></span> <span class=\"category\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "was sich liebt das neckt sich"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

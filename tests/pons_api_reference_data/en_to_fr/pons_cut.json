@@ -1,0 +1,1329 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut",
+                        "headword_full": "cut    <span class=\"phonetics\">[k\u028ct]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. cut <span class=\"sense\">(cutting)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coupure <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">on object, wood</span>",
+                                        "target": "entaille <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut <span class=\"sense\">(slice)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "tranche <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">of meat</span>",
+                                        "target": "morceau <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut <span class=\"sense\">(wound)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coupure <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">deep <strong class=\"tilde\">cut</strong></span>",
+                                        "target": "plaie  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  profonde"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "incision <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cut <span class=\"sense\">(style)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">of clothes, hair</span>",
+                                        "target": "coupe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">cut</strong> and blow-dry</span>",
+                                        "target": "une coupe brushing"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to give a <strong class=\"tilde\">cut</strong></span>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. cut <span class=\"sense\">(share)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "part <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. cut <span class=\"sense\">(decrease)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "r\u00e9duction <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">in interest, production</span>",
+                                        "target": "baisse <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">in staff</span>",
+                                        "target": "compression <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to take a <strong class=\"tilde\">cut</strong> in <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "subir une diminution de <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. cut <span class=\"info\"><acronym title=\"plural\">pl</acronym></span> <span class=\"sense\">(decrease in government spending)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "compressions  <span class=\"number\">fpl</span>  budg\u00e9taires"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. cut <span class=\"topic\"><acronym title=\"electricity, electronics\">ELEC</acronym></span> <span class=\"sense\">(interruption)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coupure <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. cut <span class=\"topic\"><acronym title=\"film, cinema\">CINE</acronym>, <acronym title=\"literature, poetry\">LIT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coupure <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. cut <span class=\"sense\">(blow)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coup <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. cut <span class=\"topic\"><acronym title=\"games\">GAMES</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">cards</span>",
+                                        "target": "coupe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">the <strong class=\"tilde\">cut</strong> and thrust of <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "les estocades  <span class=\"number\">fpl</span>  de <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to be a <strong class=\"tilde\">cut</strong> above <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym></span>",
+                                        "target": "\u00eatre un cran au-dessus de <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut",
+                        "headword_full": "cut    <span class=\"phonetics\">[k\u028ct]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. cut <span class=\"sense\">(sliced, incised)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "coup\u00e9(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut <span class=\"sense\">(shaped)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "taill\u00e9(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut <span class=\"sense\">(reduced)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "r\u00e9duit(e)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut",
+                        "headword_full": "cut   <span class=\"flexion\">&lt;cut, cut, -tt-&gt;</span>  <span class=\"phonetics\">[k\u028ct]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut <span class=\"sense\">(make an opening, incision)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> open a face</span>",
+                                        "target": "ouvrir un visage"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> <acronym title=\"something\">sth</acronym> out of <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "d\u00e9couper <acronym title=\"quelque chose\">qc</acronym> dans <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym> free</span>",
+                                        "target": "d\u00e9livrer <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym> (en coupant ses liens)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut <span class=\"sense\">(slice)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> in pieces</span>",
+                                        "target": "couper en morceaux"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut <span class=\"sense\">(shape)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "tailler"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">fingernails, hair, a flower</span>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">grass</span>",
+                                        "target": "tondre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">initials</span>",
+                                        "target": "graver"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "inciser"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cut <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"collocator\">ties</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "rompre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> <acronym title=\"somebody\">sb</acronym> loose</span>",
+                                        "target": "lib\u00e9rer <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. cut <span class=\"topic\"><acronym title=\"finance\">FIN</acronym>, <acronym title=\"economy\">ECON</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "r\u00e9duire"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">costs, prices</span>",
+                                        "target": "diminuer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. cut <span class=\"topic\"><acronym title=\"film, cinema\">CINE</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">a film</span>",
+                                        "target": "monter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. cut <span class=\"sense\">(remove)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. cut <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"topic\"><acronym title=\"school, education\">SCHOOL</acronym>, <acronym title=\"university\">UNIV</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">a lesson</span>",
+                                        "target": "s\u00e9cher"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">school</span>",
+                                        "target": "manquer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. cut <span class=\"topic\"><acronym title=\"technology\">TECH</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">motor</span>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. cut <span class=\"sense\">(have a tooth emerge)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> one&#39;s teeth</span>",
+                                        "target": "avoir une dent qui sort"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to cut one&#39;s teeth on <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "se faire les dents sur <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. cut <span class=\"sense\">(split card deck)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">cards</span>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "13. cut <span class=\"sense\">(record)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">CD</span>",
+                                        "target": "graver"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "14. cut <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"sense\">(stop)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">sarcasm</span>",
+                                        "target": "arr\u00eater"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> the cackle</span> <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym>, <acronym title=\"Australian English\" class=\"Aus\">Aus</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "arr\u00eater de jacasser"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> capers</span>",
+                                        "target": "arr\u00eater la rigolade"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> a corner (too sharply)</span>",
+                                        "target": "prendre un virage \u00e0 la corde"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> corners</span>",
+                                        "target": "rogner sur les co\u00fbts"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> a fine figure</span>, <span class=\"idiom_proverb\">to  <strong class=\"tilde\">cut</strong> quite a figure</span>, <span class=\"idiom_proverb\">[<span class=\"or\"><acronym title=\"or\">or</acronym></span> \n\t\t\t\t\t\t <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span> dash]</span>",
+                                        "target": "avoir beaucoup d&#39;allure"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> no ice with <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "ne faire aucun effet \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> it</span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "le faire"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> one&#39;s losses</span>",
+                                        "target": "sauver les meubles"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> one&#39;s nose off to spite one&#39;s face</span>",
+                                        "target": "scier la branche sur laquelle on est assis"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> <acronym title=\"somebody\">sb</acronym> to the quick</span>",
+                                        "target": "piquer <acronym title=\"quelqu'un\">qn</acronym> au vif"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> <acronym title=\"somebody\">sb</acronym> some slack</span>",
+                                        "target": "faciliter les choses \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> a long story short</span>",
+                                        "target": "en bref"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> <acronym title=\"somebody\">sb</acronym> dead</span>",
+                                        "target": "faire semblant de ne pas reconna\u00eetre <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> <acronym title=\"something\">sth</acronym> (a bit) fine</span>",
+                                        "target": "ne pas se laisser de marge"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut",
+                        "headword_full": "cut   <span class=\"flexion\">&lt;cut, cut, -tt-&gt;</span>  <span class=\"phonetics\">[k\u028ct]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut <span class=\"sense\">(make an incision)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong> <span class=\"collocator\">in slice</span>",
+                                        "target": "trancher"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut <span class=\"topic\"><acronym title=\"medicine\">MED</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "inciser"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut <span class=\"topic\"><acronym title=\"games\">GAMES</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut</strong>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut</strong> for dealer</span>",
+                                        "target": "tirer pour la donne"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> to the chase</span>",
+                                        "target": "aller \u00e0 l&#39;essentiel"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> loose</span>",
+                                        "target": "couper les ponts"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> both ways</span>",
+                                        "target": "\u00e0 double tranchant"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut</strong> and run</span>",
+                                        "target": "filer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "clean-cut",
+                        "headword_full": "clean-cut    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. clean-cut <span class=\"sense\">(sharply outlined)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">clean-cut</strong>",
+                                        "target": "net(te)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. clean-cut <span class=\"sense\">(neat)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">clean-cut</strong>",
+                                        "target": "\u00e0 l&#39;allure soign\u00e9e"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "clear-cut",
+                        "headword_full": "clear-cut    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>, <span class=\"headword\">clear-fell</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">clear-cut</strong>",
+                                        "target": "couper net"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "crew cut",
+                        "headword_full": "crew cut    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crew cut</strong>",
+                                        "target": "coupe  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  en brosse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut across",
+                        "headword_full": "cut across    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut across <span class=\"sense\">(cut)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut across</strong>",
+                                        "target": "couper \u00e0 travers"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut across <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut across</strong>",
+                                        "target": "transcender"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut away",
+                        "headword_full": "cut away    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"sense\">(slice off)</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut away</strong>",
+                                        "target": "enlever (en coupant)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut back",
+                        "headword_full": "cut back    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut back <span class=\"sense\">(trim down)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong>",
+                                        "target": "tailler"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong> <span class=\"collocator\">tree</span>",
+                                        "target": "\u00e9laguer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut back <span class=\"topic\"><acronym title=\"finance\">FIN</acronym>, <acronym title=\"economy\">ECON</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong>",
+                                        "target": "r\u00e9duire"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong> <span class=\"collocator\">costs</span>",
+                                        "target": "diminuer"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut back",
+                        "headword_full": "cut back    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut back <span class=\"sense\">(turn around)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong>",
+                                        "target": "revenir en arri\u00e8re"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut back <span class=\"sense\">(save money)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut back</strong>",
+                                        "target": "faire des \u00e9conomies"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut down",
+                        "headword_full": "cut down    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut down <span class=\"topic\"><acronym title=\"botany\">BOT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut down</strong> <span class=\"collocator\">a tree</span>",
+                                        "target": "abattre"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut down <span class=\"sense\">(do less)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut down</strong> <span class=\"collocator\">wastage</span>",
+                                        "target": "r\u00e9duire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut down <span class=\"sense\">(take out part)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut down</strong> <span class=\"collocator\">a film</span>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut down <span class=\"topic\"><acronym title=\"fashion, sewing\">FASHION</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut down</strong>",
+                                        "target": "raccourcir"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to cut <acronym title=\"somebody\">sb</acronym> down to size</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "remettre <acronym title=\"quelqu'un\">qn</acronym> \u00e0 sa place"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut in",
+                        "headword_full": "cut in    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut in <span class=\"sense\">(interrupt)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut in</strong>",
+                                        "target": "intervenir"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut in</strong> on <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "couper la parole \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut in <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut in</strong>",
+                                        "target": "se rabattre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut in</strong> in front of <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "faire une queue de poisson \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut in",
+                        "headword_full": "cut in    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut in <span class=\"sense\">(divide profits with)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut in</strong>",
+                                        "target": "partager les parts avec"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut in <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(include when playing)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to cut <acronym title=\"somebody\">sb</acronym> in on the deal</span>",
+                                        "target": "donner sa part \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut into",
+                        "headword_full": "cut into    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut into <span class=\"sense\">(start cutting)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut into</strong>",
+                                        "target": "couper dans"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut into <span class=\"sense\">(hurt)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut into</strong>",
+                                        "target": "blesser"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut into <span class=\"sense\">(start using)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut into</strong>",
+                                        "target": "entamer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut into</strong> one&#39;s free time</span>",
+                                        "target": "empi\u00e9ter sur son temps libre"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut into <span class=\"sense\">(interrupt)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut into</strong>",
+                                        "target": "interrompre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut off",
+                        "headword_full": "cut off    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut off <span class=\"sense\">(slice away)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut off</strong>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut off <span class=\"sense\">(stop talking)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to cut <acronym title=\"somebody\">sb</acronym> off</span>",
+                                        "target": "interrompre <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut off <span class=\"topic\"><acronym title=\"telecommunications\">TELEC</acronym>, <acronym title=\"electricity, electronics\">ELEC</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut off</strong>",
+                                        "target": "couper"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut off <span class=\"sense\">(isolate)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut off</strong>",
+                                        "target": "isoler"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to cut oneself off from <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "couper les liens avec <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">cut off</strong> from <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "\u00eatre coup\u00e9 de <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cut off <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut off</strong>",
+                                        "target": "faire une queue de poisson"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to cut <acronym title=\"somebody\">sb</acronym> off without a penny</span>",
+                                        "target": "d\u00e9sh\u00e9riter <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut out",
+                        "headword_full": "cut out    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut out <span class=\"sense\">(slice out of)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong>",
+                                        "target": "d\u00e9couper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut out</strong> dead wood from a bush</span>",
+                                        "target": "tailler du bois mort d&#39;un buisson"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to cut the soft spots out of the vegetables</span>",
+                                        "target": "enlever les parties ab\u00eem\u00e9es des l\u00e9gumes"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut out <span class=\"sense\">(remove from)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong> <span class=\"collocator\">a book</span>",
+                                        "target": "d\u00e9couper"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to cut a scene out of a film</span>",
+                                        "target": "couper une s\u00e9quence dans un film"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to cut sugar out</span>",
+                                        "target": "supprimer le sucre"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut out <span class=\"sense\">(stop)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong>",
+                                        "target": "supprimer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut out</strong> smoking</span>",
+                                        "target": "arr\u00eater de fumer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut out <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(desist)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">cut it out!</span>",
+                                        "target": "\u00e7a suffit !"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. cut out <span class=\"sense\">(block light)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut out</strong> the light</span>",
+                                        "target": "emp\u00eacher la lumi\u00e8re de passer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. cut out <span class=\"sense\">(not include in plans)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to cut <acronym title=\"somebody\">sb</acronym> out of <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "mettre <acronym title=\"quelqu'un\">qn</acronym> \u00e0 l&#39;\u00e9cart de <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">you can cut me out!</span> <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span>",
+                                        "target": "tu peux m&#39;oublier!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. cut out <span class=\"sense\">(exclude)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to cut <acronym title=\"somebody\">sb</acronym> out of one&#39;s will</span>",
+                                        "target": "d\u00e9sh\u00e9riter <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to have one&#39;s work <strong class=\"tilde\">cut out</strong> for oneself</span>",
+                                        "target": "avoir du pain sur la planche"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to be <strong class=\"tilde\">cut out</strong> for <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "\u00eatre fait pour <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut out",
+                        "headword_full": "cut out    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut out <span class=\"sense\">(stop)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong>",
+                                        "target": "s&#39;arr\u00eater"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong> <span class=\"collocator\">car</span>",
+                                        "target": "caler"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut out <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"sense\">(pull away quickly)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong>",
+                                        "target": "faire une queue de poisson"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cut out</strong> of traffic</span>",
+                                        "target": "couper \u00e0 travers la circulation"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut out <span class=\"sense\">(leave quickly)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut out</strong>",
+                                        "target": "filer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut up",
+                        "headword_full": "cut up    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cut up <span class=\"sense\">(slice into pieces)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut up</strong>",
+                                        "target": "couper"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cut up</strong> <span class=\"collocator\">herbs</span>",
+                                        "target": "hacher"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut up <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span> <span class=\"sense\">(cause to suffer)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut up</strong>",
+                                        "target": "d\u00e9moraliser"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">cut up</strong> about <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "\u00eatre affect\u00e9 par <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut up <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span> <span class=\"topic\"><acronym title=\"automobile\">AUTO</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to cut <acronym title=\"somebody\">sb</acronym> up</span>",
+                                        "target": "faire une queue de poisson \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut up",
+                        "headword_full": "cut up    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">cut up</strong> rough</span> <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span>",
+                                        "target": "se mettre en rogne"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut flowers",
+                        "headword_full": "cut flowers    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"number\"><acronym title=\"plural\">pl</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut flowers</strong>",
+                                        "target": "fleurs  <span class=\"number\">fpl</span>  coup\u00e9es"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut-off",
+                        "headword_full": "cut-off    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-off</strong>",
+                                        "target": "embargo <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut-off",
+                        "headword_full": "cut-off    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. cut-off <span class=\"sense\">(with a limit)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-off</strong>",
+                                        "target": "limite"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">cut-off</strong> point</span>",
+                                        "target": "une limite"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut-off <span class=\"sense\">(isolated)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-off</strong>",
+                                        "target": "isol\u00e9(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. cut-off <span class=\"topic\"><acronym title=\"fashion, sewing\">FASHION</acronym></span> <span class=\"sense\">(short)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-off</strong>",
+                                        "target": "raccourci(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. cut-off <span class=\"topic\"><acronym title=\"electricity, electronics\">ELEC</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">a <strong class=\"tilde\">cut-off</strong> switch/button</span>",
+                                        "target": "un interrupteur <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut-out",
+                        "headword_full": "cut-out    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. cut-out <span class=\"sense\">(shape)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-out</strong>",
+                                        "target": "d\u00e9coupage <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cut-out <span class=\"sense\">(safety device)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-out</strong>",
+                                        "target": "disjoncteur <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cut-out",
+                        "headword_full": "cut-out    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-out</strong>",
+                                        "target": "d\u00e9coup\u00e9(e)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cut-price",
+                        "headword_full": "cut-price, <span class=\"headword\">cut-rate</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cut-price</strong>",
+                                        "target": "\u00e0 prix r\u00e9duit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

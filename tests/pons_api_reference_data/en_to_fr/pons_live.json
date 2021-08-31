@@ -1,0 +1,427 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live",
+                        "headword_full": "live<sup>1</sup>    <span class=\"phonetics\">[la\u026av]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. live <span class=\"sense\">(living)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "vivant(e)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">real <strong class=\"tilde\">live</strong></span>",
+                                        "target": "en chair et en os"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. live <span class=\"topic\"><acronym title=\"radio broadcasting\">RADIO</acronym>, <acronym title=\"television\">TV</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "en direct"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to give a <strong class=\"tilde\">live</strong> performance</span>",
+                                        "target": "jouer en public"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. live <span class=\"sense\">(carrying electrical power)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "conducteur"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. live <span class=\"topic\"><acronym title=\"military\">MIL</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "amorc\u00e9(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. live <span class=\"sense\">(burning)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "ardent(e)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "live",
+                        "headword_full": "live<sup>1</sup>    <span class=\"phonetics\">[la\u026av]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. live <span class=\"topic\"><acronym title=\"radio broadcasting\">RADIO</acronym>, <acronym title=\"television\">TV</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "en direct"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. live <span class=\"topic\"><acronym title=\"music\">MUS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "en public"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live",
+                        "headword_full": "live<sup>2</sup>    <span class=\"phonetics\">[l\u026av]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. live <span class=\"sense\">(be alive)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "vivre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the right to <strong class=\"tilde\">live</strong></span>",
+                                        "target": "le droit \u00e0 la vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">as long as <acronym title=\"somebody\">sb</acronym> <strong class=\"tilde\">lives</strong></span>",
+                                        "target": "tant qu&#39;il y aura de la vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to only <strong class=\"tilde\">live</strong> for <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym></span>",
+                                        "target": "ne vivre que pour <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. live <span class=\"sense\">(reside)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "habiter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live</strong> together/apart</span>",
+                                        "target": "vivre ensemble/s\u00e9par\u00e9s"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> under a cloud</span>",
+                                        "target": "\u00eatre n\u00e9 sous une mauvaise \u00e9toile"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">long <strong class=\"tilde\">live</strong> the king/queen!</span>",
+                                        "target": "longue vie au roi/\u00e0 la reine!"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">we <strong class=\"tilde\">live</strong> and learn</span>",
+                                        "target": "on apprend \u00e0 tout \u00e2ge"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> and let <strong class=\"tilde\">live</strong></span>",
+                                        "target": "faire preuve de tol\u00e9rance"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> to regret <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "passer sa vie \u00e0 regretter <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> by one&#39;s wits</span>",
+                                        "target": "se d\u00e9brouiller pour vivre"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "live",
+                        "headword_full": "live<sup>2</sup>    <span class=\"phonetics\">[l\u026av]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live</strong>",
+                                        "target": "vivre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live</strong> a life of luxury</span>",
+                                        "target": "mener un grand train de vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live</strong> life to the full</span>",
+                                        "target": "profiter pleinement de la vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live</strong> one&#39;s own life</span>",
+                                        "target": "vivre sa vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to make life worth living</span>",
+                                        "target": "faire en sorte que la vie vaille la peine d&#39;\u00eatre v\u00e9cue <span class=\"info\"><acronym title=\"subjunctive\">subj</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> a lie</span>",
+                                        "target": "vivre dans le mensonge"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live</strong> and breathe <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "ne vivre que pour <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live bait",
+                        "headword_full": "live bait    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live bait</strong>",
+                                        "target": "app\u00e2t  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  vivant"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live down",
+                        "headword_full": "live down    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live down</strong> <span class=\"collocator\">one&#39;s past</span>",
+                                        "target": "faire oublier"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live down</strong> <span class=\"collocator\">failure, mistake</span>",
+                                        "target": "chercher \u00e0 effacer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live in",
+                        "headword_full": "live in    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live in</strong>",
+                                        "target": "habiter sur place"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live in</strong> <span class=\"collocator\">student</span>",
+                                        "target": "\u00eatre interne"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live off",
+                        "headword_full": "live off, <span class=\"headword\">live on</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live off</strong> <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "vivre de <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live off</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "vivre aux crochets de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">his brother lives off his inheritance</span>",
+                                        "target": "son fr\u00e8re vit de son h\u00e9ritage"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">to <strong class=\"tilde\">live off</strong> the fat of the land</span>",
+                                        "target": "vivre comme un coq en p\u00e2te"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live out",
+                        "headword_full": "live out    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. live out <span class=\"sense\">(live)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live out</strong> one&#39;s life</span>",
+                                        "target": "passer sa vie"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. live out <span class=\"sense\">(fulfil)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live out</strong> <span class=\"collocator\">one&#39;s destiny</span>",
+                                        "target": "d\u00e9cider de"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live out</strong> <span class=\"collocator\">one&#39;s dreams, fantasies</span>",
+                                        "target": "r\u00e9aliser"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live through",
+                        "headword_full": "live through    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live through</strong>",
+                                        "target": "survivre \u00e0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "live up to",
+                        "headword_full": "live up to    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">live up to</strong> <span class=\"collocator\">expectations</span>",
+                                        "target": "r\u00e9pondre \u00e0"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live up to</strong> <span class=\"collocator\">promises</span>",
+                                        "target": "tenir"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live up to</strong> <span class=\"collocator\">reputation</span>",
+                                        "target": "faire honneur \u00e0"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">live up to</strong> <span class=\"collocator\">principles</span>",
+                                        "target": "vivre selon"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">live up to</strong> a standard</span>",
+                                        "target": "\u00eatre \u00e0 la hauteur"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

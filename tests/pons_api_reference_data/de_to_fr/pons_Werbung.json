@@ -1,0 +1,72 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Werbung",
+                        "headword_full": "Werbung   <span class=\"flexion\">&lt;-; <span class=\"info\"><acronym title=\"no plural\">no pl</acronym></span>&gt;</span>  <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. Werbung:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Werbung</strong>",
+                                        "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">direkte/indirekte <strong class=\"tilde\">Werbung</strong></span>",
+                                        "target": "publicit\u00e9 directe/indirecte"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">vergleichende <strong class=\"tilde\">Werbung</strong></span>",
+                                        "target": "publicit\u00e9 comparative"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">f\u00fcr <acronym title=\"etwas\">etw</acronym> <strong class=\"tilde\">Werbung</strong> machen</span>",
+                                        "target": "faire de la publicit\u00e9 pour <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. Werbung <span class=\"sense\">(das Anwerben)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Werbung</strong> <span class=\"collocator\">eines Abonnenten, Kunden, Mitglieds</span>",
+                                        "target": "parrainage <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Internetwerbung",
+                        "headword_full": "Internetwerbung, <span class=\"headword\">Internet-Werbung</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Internetwerbung</strong>",
+                                        "target": "publicit\u00e9  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  sur Internet"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

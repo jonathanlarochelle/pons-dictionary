@@ -1,0 +1,210 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apple",
+                        "headword_full": "apple    <span class=\"phonetics\">[\u02c8\u00e6pl]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apple</strong>",
+                                        "target": "pomme <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">the <strong class=\"tilde\">apple</strong> of one&#39;s eye</span>",
+                                        "target": "la prunelle de ses yeux"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Adam&#39;s apple",
+                        "headword_full": "Adam&#39;s apple    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"topic\"><acronym title=\"anatomy\">ANAT</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Adam&#39;s apple</strong>",
+                                        "target": "pomme  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;Adam"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apple pie",
+                        "headword_full": "apple pie    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apple pie</strong>",
+                                        "target": "tarte  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  aux pommes"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. apple pie <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">in <strong class=\"tilde\">apple pie</strong> order</span>",
+                                        "target": "impeccable"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "apple tree",
+                        "headword_full": "apple tree    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">apple tree</strong>",
+                                        "target": "pommier <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Big Apple",
+                        "headword_full": "Big Apple    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">Big Apple</strong></span>",
+                                        "target": "<span class=\"explanation\">New York</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "candy apple",
+                        "headword_full": "candy apple    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">candy apple</strong>",
+                                        "target": "pomme  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "toffee apple",
+                        "headword_full": "toffee apple    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">toffee apple</strong>",
+                                        "target": "pomme  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "crab (apple)",
+                        "headword_full": "crab (apple)    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. crab (apple) <span class=\"sense\">(tree)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crab (apple)</strong>",
+                                        "target": "pommier  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  sauvage"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. crab (apple) <span class=\"sense\">(fruit)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">crab (apple)</strong>",
+                                        "target": "pomme  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  aigre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

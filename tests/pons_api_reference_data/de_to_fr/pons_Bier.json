@@ -1,0 +1,76 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Bier",
+                        "headword_full": "Bier   <span class=\"flexion\">&lt;-[e]s, -e&gt;</span>  <span class=\"phonetics\">[bi\u02d0\u0250]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Bier</strong>",
+                                        "target": "bi\u00e8re <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dunkles/helles <strong class=\"tilde\">Bier</strong></span>",
+                                        "target": "bi\u00e8re brune/blonde"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">Bier</strong> vom Fass</span>",
+                                        "target": "[bi\u00e8re] pression <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">alkoholfreies <strong class=\"tilde\">Bier</strong></span>",
+                                        "target": "bi\u00e8re sans alcool"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">das ist mein <strong class=\"tilde\">Bier</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "c&#39;est mes oignons <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">das ist nicht mein <strong class=\"tilde\">Bier</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "c&#39;est pas mes oignons <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bi",
+                        "headword_full": "bi    <span class=\"phonetics\">[bi\u02d0]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"style\"><acronym title=\"slang\">sl</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">bi</strong> sein</span>",
+                                        "target": "\u00eatre bi <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

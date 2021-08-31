@@ -1,0 +1,295 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gro\u00df",
+                        "headword_full": "gro\u00df <span class=\"flexion\">&lt;gr\u00f6\u00dfer, gr\u00f6\u00dfte&gt;</span>  <span class=\"phonetics\">[gro\u02d0s]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. gro\u00df <span class=\"sense\">(nicht klein)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong>",
+                                        "target": "grand(e) <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ein <strong class=\"tilde\">gro\u00dfer</strong> Park/Fluss</span>",
+                                        "target": "un grand parc/fleuve"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">hundert Quadratmeter <strong class=\"tilde\">gro\u00df</strong> sein</span>",
+                                        "target": "mesurer cent m\u00e8tres carr\u00e9s"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. gro\u00df <span class=\"sense\">(in Bezug auf die K\u00f6rpergr\u00f6\u00dfe)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong>",
+                                        "target": "grand(e) <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">eine <strong class=\"tilde\">gro\u00dfe</strong> Frau</span>",
+                                        "target": "une femme grande"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">er ist 1, 80 m <strong class=\"tilde\">gro\u00df</strong></span>",
+                                        "target": "il mesure 1, 80 m"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">du bist <strong class=\"tilde\">gro\u00df</strong> geworden</span>",
+                                        "target": "tu as grandi"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">wie <strong class=\"tilde\">gro\u00df</strong> bist du?</span>",
+                                        "target": "combien mesures-tu ?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sie ist mit der Musik/in Wien <strong class=\"tilde\">gro\u00df</strong> geworden</span>",
+                                        "target": "elle a grandi avec la musique/\u00e0 Vienne"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. gro\u00df <span class=\"sense\">(erheblich, betr\u00e4chtlich, heftig)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong>",
+                                        "target": "grand(e) <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">Summe, Erfolg, Misserfolg, Dummheit</span>",
+                                        "target": "gros(se)"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">Pause, Verz\u00f6gerung</span>",
+                                        "target": "long(ue) <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">Versp\u00e4tung</span>",
+                                        "target": "important(e)"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. gro\u00df <span class=\"sense\">(\u00e4lter)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mein <strong class=\"tilde\">gro\u00dfer</strong> Bruder/seine <strong class=\"tilde\">gro\u00dfe</strong> Schwester</span>",
+                                        "target": "mon grand fr\u00e8re/ma grande s\u0153ur"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">unser Gro\u00dfer/unsere Gro\u00dfe</span>",
+                                        "target": "notre grand/notre grande"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">die Gro\u00dfen</span> <span class=\"sense\">(die \u00e4lteren Kinder)</span>",
+                                        "target": "les grands <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">die Gro\u00dfen</span> <span class=\"sense\">(die Erwachsenen)</span>",
+                                        "target": "les grandes personnes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">unsere Kinder sind schon <strong class=\"tilde\">gro\u00df</strong></span>",
+                                        "target": "nos enfants sont d\u00e9j\u00e0 grands"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. gro\u00df <span class=\"sense\">(gro\u00dfgeschrieben)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">Buchstabe</span>",
+                                        "target": "majuscule"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ein <strong class=\"tilde\">gro\u00dfes</strong> V</span>",
+                                        "target": "un V majuscule"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. gro\u00df <span class=\"sense\">(bedeutend)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">Dichter, Werk, Erfindung</span>",
+                                        "target": "grand(e) <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Gro\u00dfes leisten</span>",
+                                        "target": "r\u00e9ussir quelque chose de grand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. gro\u00df <span class=\"sense\">(begeistert)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">eine <strong class=\"tilde\">gro\u00dfe</strong> Kinog\u00e4ngerin sein</span>",
+                                        "target": "aller souvent au cin\u00e9ma"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">kein <strong class=\"tilde\">gro\u00dfer</strong> Esser sein</span>",
+                                        "target": "ne pas \u00eatre un gros mangeur"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. gro\u00df <span class=\"sense\">(als Namenszusatz)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">der/die Gro\u00dfe</span>",
+                                        "target": "le Grand/la Grande"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Karl der Gro\u00dfe</span>",
+                                        "target": "Charlemagne"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">im Gro\u00dfen und Ganzen</span>",
+                                        "target": "dans l&#39;ensemble"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">Gro\u00df und Klein</span>",
+                                        "target": "petits et grands"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">das w\u00e4re das Gr\u00f6\u00dfte</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "\u00e7a serait le pied <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "gro\u00df",
+                        "headword_full": "gro\u00df <span class=\"flexion\">&lt;gr\u00f6\u00dfer, gr\u00f6\u00dfte&gt;</span>  <span class=\"phonetics\">[gro\u02d0s]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. gro\u00df <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(besonders)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">sich nicht <strong class=\"tilde\">gro\u00df</strong> um <acronym title=\"etwas\">etw</acronym> k\u00fcmmern</span>",
+                                        "target": "ne pas s&#39;occuper des masses de <acronym title=\"quelque chose\">qc</acronym> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">was soll man da schon <strong class=\"tilde\">gro\u00df</strong> machen/sagen?</span>",
+                                        "target": "qu&#39;est-ce qu&#39;on peut bien faire/dire de plus ? <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. gro\u00df <span class=\"sense\">(in gro\u00dfem Stil, Umfang)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">ausgehen, feiern</span>",
+                                        "target": "en grande pompe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><acronym title=\"etwas\">etw</acronym> ganz <strong class=\"tilde\">gro\u00df</strong> aufmachen</span>",
+                                        "target": "faire <acronym title=\"quelque chose\">qc</acronym> \u00e0 grande \u00e9chelle"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gro\u00df</strong> einkaufen</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "faire ses grosses courses <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gro\u00df</strong> angelegt</span> <span class=\"collocator\">Projekt</span>",
+                                        "target": "de grande envergure"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. gro\u00df <span class=\"sense\">(viel Platz beanspruchend)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">schreiben</span>",
+                                        "target": "gros"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gro\u00df</strong> <span class=\"collocator\">zeichnen, gestalten</span>",
+                                        "target": "en grand"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. gro\u00df <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(gro\u00dfartig)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mit <acronym title=\"etwas\">etw</acronym> <strong class=\"tilde\">gro\u00df</strong> rauskommen</span>",
+                                        "target": "faire un tabac avec <acronym title=\"quelque chose\">qc</acronym> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gro\u00df</strong> daherreden</span> <span class=\"sense\">(viel erz\u00e4hlen und dabei etwas \u00fcbertreiben)</span>",
+                                        "target": "parler en en rajoutant une couche <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gro\u00df</strong> daherreden</span> <span class=\"sense\">(Versprechungen machen und keine Taten folgen lassen)</span>",
+                                        "target": "promettre la lune et ne rien y avoir derri\u00e8re <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">gro\u00df</strong> und breit</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"collocator\">schildern</span>",
+                                        "target": "en long et en large"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">gro\u00df</strong> und breit</span> <span class=\"collocator\">sich entschuldigen</span>",
+                                        "target": "dans toutes les r\u00e8gles de l&#39;art"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemanden\">jdn</acronym> <strong class=\"tilde\">gro\u00df</strong> ansehen</span>",
+                                        "target": "regarder <acronym title=\"quelqu'un\">qn</acronym> avec de grands yeux"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">gro\u00df</strong> machen</span> <span class=\"restriction\"><acronym title=\"language of children\">childspeak</acronym></span>",
+                                        "target": "faire la grosse commission <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "gro\u00df",
+                        "headword_full": "gro\u00df    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "im Gro\u00dfen und Ganzen",
+                                        "target": "en gros"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

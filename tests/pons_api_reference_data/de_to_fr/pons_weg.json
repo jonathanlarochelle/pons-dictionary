@@ -1,0 +1,323 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "weg",
+                        "headword_full": "weg    <span class=\"phonetics\">[v\u025bk]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. weg <span class=\"sense\">(fort)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> sein</span> <span class=\"sense\">(abwesend sein)</span>",
+                                        "target": "ne pas \u00eatre l\u00e0"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> sein</span> <span class=\"sense\">(weggegangen, -gefahren sein)</span>",
+                                        "target": "\u00eatre parti(e)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> sein</span> <span class=\"sense\">(verloren, verschwunden sein)</span>",
+                                        "target": "avoir disparu"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ich bin gleich <strong class=\"tilde\">weg!</strong></span>",
+                                        "target": "je suis d\u00e9j\u00e0 parti(e)!"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">du bist noch nicht <strong class=\"tilde\">weg?</strong></span>",
+                                        "target": "tu n&#39;es pas encore parti(e)?"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">das ganze Geld ist <strong class=\"tilde\">weg</strong></span> <span class=\"sense\">(ist verschwunden, gestohlen)</span>",
+                                        "target": "tout l&#39;argent a disparu"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">das ganze Geld ist <strong class=\"tilde\">weg</strong></span> <span class=\"sense\">(ist verspielt, ausgegeben)</span>",
+                                        "target": "il n&#39;y a plus d&#39;argent"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">blo\u00df [<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> nichts wie] <strong class=\"tilde\">weg</strong> [hier]!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "tirons-nous ! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> da!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "[allez,] d\u00e9gage/d\u00e9gagez ! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> mit dir/euch!</span>",
+                                        "target": "fous/foutez le camp ! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> damit!</span>",
+                                        "target": "du balai !"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">weg</strong> mit dieser Regierung!</span>",
+                                        "target": "\u00e0 bas le gouvernement !"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. weg <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(hinweggekommen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">\u00fcber einen Misserfolg/Verlust <strong class=\"tilde\">weg</strong> sein</span>",
+                                        "target": "avoir dig\u00e9r\u00e9 un \u00e9chec/une perte <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ich bin jetzt \u00fcber die Trennung/seinen Tod <strong class=\"tilde\">weg</strong></span>",
+                                        "target": "j&#39;ai r\u00e9ussi \u00e0 tourner la page sur la s\u00e9paration/sa mort"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. weg <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(begeistert)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">er ist ganz <strong class=\"tilde\">weg</strong> von ihr/von ihrem Parfum</span>",
+                                        "target": "elle/son parfum le fait compl\u00e8tement craquer <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. weg <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(direkt nach)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">von der Schule <strong class=\"tilde\">weg</strong> eingezogen werden</span>",
+                                        "target": "\u00eatre appel\u00e9 tout de suite apr\u00e8s l&#39;\u00e9cole"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Weg",
+                        "headword_full": "Weg   <span class=\"flexion\">&lt;-[e]s, -e&gt;</span>  <span class=\"phonetics\">[ve\u02d0k]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. Weg:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Weg</strong>",
+                                        "target": "chemin <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">Weg</strong> <span class=\"sense\">(Route)</span>",
+                                        "target": "itin\u00e9raire <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">Weg</strong> <span class=\"sense\">(Strecke)</span>",
+                                        "target": "trajet <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf dem <strong class=\"tilde\">Weg</strong> zu <acronym title=\"jemandem\">jdm</acronym> sein</span>",
+                                        "target": "\u00eatre en route pour chez <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf dem <strong class=\"tilde\">Weg</strong> ins Kino sein</span>",
+                                        "target": "\u00eatre en route pour le cin\u00e9"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sich auf den <strong class=\"tilde\">Weg</strong> zu <acronym title=\"jemandem\">jdm</acronym> machen</span>",
+                                        "target": "partir chez <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">das liegt auf dem <strong class=\"tilde\">Weg</strong></span>",
+                                        "target": "c&#39;est sur le chemin"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><acronym title=\"jemandem\">jdm</acronym> den <strong class=\"tilde\">Weg</strong> versperren</span>",
+                                        "target": "barrer la route \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">aus dem <strong class=\"tilde\">Weg!</strong></span>",
+                                        "target": "d\u00e9gage/d\u00e9gagez le passage !"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">geh mir aus dem <strong class=\"tilde\">Weg!</strong></span>",
+                                        "target": "\u00f4te-toi de mon chemin !"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. Weg <span class=\"sense\">(Methode)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Weg</strong>",
+                                        "target": "moyen <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">es gibt nur diesen <strong class=\"tilde\">Weg</strong></span>",
+                                        "target": "il n&#39;y a que ce moyen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">wissen Sie einen <strong class=\"tilde\">Weg</strong>, wie man ihm helfen k\u00f6nnte?</span>",
+                                        "target": "voyez-vous un moyen de l&#39;aider ?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. Weg <span class=\"sense\">(Art, Weise)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">auf diesem <strong class=\"tilde\">Wege</strong></span>",
+                                        "target": "de cette fa\u00e7on"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf friedlichem <strong class=\"tilde\">Wege</strong></span>",
+                                        "target": "\u00e0 l&#39;amiable"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf schriftlichem <strong class=\"tilde\">Wege</strong></span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "par \u00e9crit <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf illegalem/unbekanntem <strong class=\"tilde\">Wege</strong></span>",
+                                        "target": "par des moyens ill\u00e9gaux/inconnus"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">auf dem <strong class=\"tilde\">Wege</strong> der Besserung sein</span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "\u00eatre en voie de gu\u00e9rison <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">viele <strong class=\"tilde\">Wege</strong> f\u00fchren nach Rom</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "tous les chemins m\u00e8nent \u00e0 Rome"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">den <strong class=\"tilde\">Weg</strong> des geringsten Widerstandes gehen</span>",
+                                        "target": "choisir la solution de facilit\u00e9"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">auf dem besten <strong class=\"tilde\">Wege</strong> sein <acronym title=\"etwas\">etw</acronym> zu tun</span>",
+                                        "target": "\u00eatre bien parti(e) pour faire <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym> auf halbem <strong class=\"tilde\">Wege</strong> entgegenkommen</span>",
+                                        "target": "faire des concessions \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">vom rechten <strong class=\"tilde\">Weg</strong> abkommen</span>",
+                                        "target": "s&#39;\u00e9carter du droit chemin"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym>/einer <acronym title=\"Sache\">S.</acronym> den <strong class=\"tilde\">Weg</strong> bahnen</span>",
+                                        "target": "ouvrir le chemin \u00e0 <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym> gute Ratschl\u00e4ge mit auf den <strong class=\"tilde\">Weg</strong> geben</span>",
+                                        "target": "donner des bons conseils \u00e0 <acronym title=\"quelqu'un\">qn</acronym> pour la route"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">seinen <strong class=\"tilde\">Weg</strong> gehen</span>",
+                                        "target": "vivre sa vie"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">seiner <strong class=\"tilde\">Wege</strong> gehen</span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "aller son petit bonhomme de chemin <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym>/einer <acronym title=\"Sache\">S.</acronym> aus dem <strong class=\"tilde\">Weg</strong> gehen</span> <span class=\"sense\">(<acronym title=\"jemanden\">jdn</acronym>/<acronym title=\"etwas\">etw</acronym> meiden)</span>",
+                                        "target": "\u00e9viter <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">des <strong class=\"tilde\">Weges</strong> kommen</span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "se pr\u00e9senter <span class=\"style\"><acronym title=\"literary\">liter</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym> \u00fcber den <strong class=\"tilde\">Weg</strong> laufen</span>",
+                                        "target": "croiser <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"etwas\">etw</acronym> in die <strong class=\"tilde\">Wege</strong> leiten</span>",
+                                        "target": "engager <acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"etwas\">etw</acronym> in die <strong class=\"tilde\">Wege</strong> leiten</span>",
+                                        "target": "mettre <acronym title=\"quelque chose\">qc</acronym> en route"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemanden\">jdn</acronym>/<acronym title=\"etwas\">etw</acronym> aus dem <strong class=\"tilde\">Weg</strong> r\u00e4umen</span>",
+                                        "target": "\u00e9carter <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym>/einer <acronym title=\"Sache\">S.</acronym> im <strong class=\"tilde\">Weg</strong> stehen</span>",
+                                        "target": "faire obstacle \u00e0 <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">sich <span class=\"case\"><acronym title=\"dative\">dat</acronym></span> selbst im <strong class=\"tilde\">Weg</strong> stehen</span>",
+                                        "target": "se mettre des b\u00e2tons dans les roues"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">ich stelle mich dir nicht in den <strong class=\"tilde\">Weg</strong></span>",
+                                        "target": "je ne t&#39;en emp\u00eache pas"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><acronym title=\"jemandem\">jdm</acronym> nicht \u00fcber den <strong class=\"tilde\">Weg</strong> trauen</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "se m\u00e9fier de <acronym title=\"quelqu'un\">qn</acronym> comme de la peste <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">hier trennen sich unsere <strong class=\"tilde\">Wege</strong></span>",
+                                        "target": "c&#39;est ici que nos chemins se s\u00e9parent"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">sich <span class=\"case\"><acronym title=\"dative\">dat</acronym></span> den <strong class=\"tilde\">Weg</strong> verbauen</span>",
+                                        "target": "se barrer la route"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">woher des <strong class=\"tilde\">Weg[e]s?</strong></span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "d&#39;o\u00f9 viens-tu/venez-vous ?"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">wohin des <strong class=\"tilde\">Weg[e]s?</strong></span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                                        "target": "o\u00f9 te conduisent tes/vous conduisent vos pas ? <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "Weg",
+                        "headword_full": "Weg    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "steiniger <strong class=\"tilde\">Weg</strong> <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span>",
+                                        "target": "chemin sem\u00e9 d&#39;embuches <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -4,6 +4,7 @@
 import re
 import typing
 import warnings
+import html
 
 # import third-party modules
 
@@ -51,6 +52,7 @@ class TranslationEntry:
         self._category = None
         self._colloc = None
         self._collocator = None
+        self._modus = None
         self._region = None
         self._rhetoric = None
         self._sense = None
@@ -59,6 +61,7 @@ class TranslationEntry:
         self._topic = None
 
         # PARSING of API string
+        api_str = html.unescape(api_str)
         # End-of-string parameters
 
         # Parse category
@@ -75,6 +78,11 @@ class TranslationEntry:
         collocator_pattern = re.compile(r'<span class="collocator">(.*?)</span>', re.UNICODE)  # Group 1 is collocator
         self._collocator = self._parse_from_pattern(collocator_pattern, api_str)
         api_str = self._strip_string_from_pattern(collocator_pattern, api_str)
+
+        # Parse modus
+        modus_pattern = re.compile(r'<span class="modus">\+(.*?)</span>', re.UNICODE)  # Group 1 is modus
+        self._modus = self._parse_from_pattern(modus_pattern, api_str)
+        api_str = self._strip_string_from_pattern(modus_pattern, api_str)
 
         # Parse region
         region_pattern = re.compile(r'<span class="region">(.*?)</span>', re.UNICODE)  # Group 1 is region
@@ -123,13 +131,25 @@ class TranslationEntry:
             api_str = type_headword_match.group(2)
 
         # Eliminate remaining tags
-        # <strong class="tilde">[A]</strong> -> strip tags, keep [A]
+        # - <strong class="tilde">[A]</strong> -> strip tags, keep [A]
         tilde_pattern = re.compile(r'<strong class="tilde">(.*?)</strong>', re.UNICODE)
         for match in tilde_pattern.finditer(api_str):
             api_str = api_str.replace(match.group(0), match.group(1))
 
-        # other tags: strip
-        span_classes_to_ignore = ["grammar SUBST", "grammar VERB"]
+        # - <span class="emphasize">[A]</span> -> strip tags, keep [A]
+        emphasize_pattern = re.compile(r'<span class="emphasize">(.*?)</span>', re.UNICODE)
+        for match in emphasize_pattern.finditer(api_str):
+            api_str = api_str.replace(match.group(0), match.group(1))
+
+        # - <span class="feminine">[A]</span> -> strip tags, keep [A]
+        feminine_pattern = re.compile(r'<span class="feminine">(.*?)</span>', re.UNICODE)
+        for match in feminine_pattern.finditer(api_str):
+            api_str = api_str.replace(match.group(0), match.group(1))
+
+        # - other tags: strip
+        span_classes_to_ignore = ["grammar SUBST", "grammar VERB", "case", "number", "object-case", "modus",
+                                  "target", "info", "indirect_reference_OTHER",
+                                  "or", "genus"]
         general_pattern = re.compile(r'<span class="(.*?)">(.*?)</span>', re.UNICODE)
 
         for match in general_pattern.finditer(api_str):
@@ -138,21 +158,30 @@ class TranslationEntry:
                               UserWarning)
             api_str = api_str.replace(match.group(0), '')
 
-        self._text = api_str.strip(', ')
+        # remove square brackets
+        brackets_pattern = re.compile(r'\[.*\]', re.UNICODE)
+        for match in brackets_pattern.finditer(api_str):
+            api_str = api_str.replace(match.group(0), '')
+
+        # Final text string formatting
+        # - Eliminate 2+ spaces
+        spaces_pattern = re.compile(r'\s{2,}', re.UNICODE)
+        for match in spaces_pattern.finditer(api_str):
+            api_str = api_str.replace(match.group(0), ' ')
+
+        # - Replace acronyms with preferred value
+        self._text = self._process_acronym(api_str.strip(', '), use_acronym = False)
 
     @staticmethod
-    def _process_acronym(str_with_acronym: str, use_acronym: bool = False):
-        pattern = re.compile(r'<acronym title="(.*?)"(?:.*)?>(.*?)</acronym>',
+    def _process_acronym(string: str, use_acronym: bool = False):
+        pattern = re.compile(r'<acronym title="(.*?)"(?:.*?)>(.*?)</acronym>',
                              re.UNICODE)  # Group 1 is non-abbreviated, group 2 is abbreviated
-        match = pattern.match(str_with_acronym)
-        if match is not None:
+        for match in pattern.finditer(string):
             if use_acronym:
-                str_without_acronym = match.group(2)
+                string = string.replace(match.group(0), match.group(2))
             else:
-                str_without_acronym = match.group(1)
-        else:
-            str_without_acronym = str_with_acronym
-        return str_without_acronym
+                string = string.replace(match.group(0), match.group(1))
+        return string
 
     def _parse_from_pattern(self, pattern: re.Pattern, string: str) -> typing.Union[typing.List[str], str]:
         """
@@ -212,6 +241,10 @@ class TranslationEntry:
     @property
     def collocator(self):
         return self._collocator
+
+    @property
+    def modus(self):
+        return self._modus
 
     @property
     def region(self):

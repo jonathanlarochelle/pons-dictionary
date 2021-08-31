@@ -1,0 +1,73 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "weil",
+                        "headword_full": "weil    <span class=\"phonetics\">[va\u026al]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "1. weil <span class=\"sense\">(da)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">weil</strong>",
+                                        "target": "parce que"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. weil <span class=\"sense\">(da ... nun)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">weil</strong>",
+                                        "target": "comme"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "weilen",
+                        "headword_full": "weilen    <span class=\"phonetics\">[\u02c8va\u026al\u0259n]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">weilen</strong>",
+                                        "target": "s\u00e9journer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">in Paris <strong class=\"tilde\">weilen</strong></span>",
+                                        "target": "s\u00e9journer \u00e0 Paris"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">er weilt nicht mehr unter uns</span> <span class=\"rhetoric\"><acronym title=\"euphemistic\">euph</acronym></span>",
+                                        "target": "il nous a quitt\u00e9(e)s <span class=\"rhetoric\"><acronym title=\"euphemistic\">euph</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

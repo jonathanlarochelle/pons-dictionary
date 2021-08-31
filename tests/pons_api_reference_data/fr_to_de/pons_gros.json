@@ -1,0 +1,646 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros",
+                        "headword_full": "gros    <span class=\"phonetics\">[g\u0280o]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. gros:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong>",
+                                        "target": "Dicke(r) <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> plein de soupe</span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span>",
+                                        "target": "Fettklo\u00df <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> plein de soupe</span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span>",
+                                        "target": "Fettwanst <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. gros <span class=\"info\"><acronym title=\"often\">often</acronym> <acronym title=\"plural\">pl</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(riche)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong>",
+                                        "target": "Reiche(r) <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. gros <span class=\"rhetoric\"><acronym title=\"humorous\">hum</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(expression affective)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mon <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "mein Dickerchen <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. gros <span class=\"info\">sans <acronym title=\"plural\">pl</acronym></span> <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong>",
+                                        "target": "Gro\u00dfhandel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">commer\u00e7ant en <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "Gro\u00dfh\u00e4ndler <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">entreprise de <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "Gro\u00dfhandelsunternehmen <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">indice des prix de <strong class=\"tilde\">gros</strong> et de d\u00e9tail</span>",
+                                        "target": "Gro\u00df- und Einzelhandelsindex <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">pratiquer des prix de <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "zu Gro\u00dfhandelspreisen verkaufen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. gros <span class=\"info\">sans <acronym title=\"plural\">pl</acronym></span> <span class=\"sense\">(la plus grande partie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">le <strong class=\"tilde\">gros</strong> du travail</span>",
+                                        "target": "die Hauptarbeit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le <strong class=\"tilde\">gros</strong> du travail</span>",
+                                        "target": "der Gro\u00dfteil der Arbeit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le <strong class=\"tilde\">gros</strong> de l&#39;assistance</span>",
+                                        "target": "die gro\u00dfe Mehrheit des Publikums"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le <strong class=\"tilde\">gros</strong> de la troupe</span>",
+                                        "target": "das Gros der Truppe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le <strong class=\"tilde\">gros</strong> de l&#39;orage est pass\u00e9</span>",
+                                        "target": "der schlimmste Sturm ist vorbei"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">faire le plus <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "das Gr\u00f6bste machen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">acheter/vendre <acronym title=\"quelque chose\">qc</acronym> en <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> en gros  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> im Gro\u00dfen]</span>  kaufen/verkaufen"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">couter (co\u00fbter) en <strong class=\"tilde\">gros</strong> cent euros</span>",
+                                        "target": "ungef\u00e4hr hundert Euro kosten"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">avoir raison en <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "im Gro\u00dfen und Ganzen Recht haben"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">expliquer en <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "in groben Z\u00fcgen erkl\u00e4ren"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "gros",
+                        "headword_full": "gros    <span class=\"phonetics\">[g\u0280o]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "1. gros:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong>",
+                                        "target": "viel"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong> <span class=\"collocator\">jouer, parier</span>",
+                                        "target": "mit hohem Einsatz"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">je donnerais <strong class=\"tilde\">gros</strong> pour savoir...</span>",
+                                        "target": "ich w\u00fcrde viel darum geben, wenn ich w\u00fcsste ..."
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. gros <span class=\"sense\">(en grand format)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong> <span class=\"collocator\">\u00e9crire</span>",
+                                        "target": "gro\u00df"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong> <span class=\"collocator\">voir</span>",
+                                        "target": "vergr\u00f6\u00dfert"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">il y a <strong class=\"tilde\">gros</strong> \u00e0 parier qu&#39;il/qu&#39;elle va perdre</span>",
+                                        "target": "ich gehe jede Wette ein, dass er/sie verlieren wird"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros",
+                        "headword_full": "gros<span class=\"feminine\">(se)</span>   <span class=\"phonetics\">[g\u0280o, g\u0280os]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "1. gros <span class=\"info\"><acronym title=\"aussi\">a.</acronym> <acronym title=\"prefixed\">prefixed</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span>",
+                                        "target": "dick"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">manteau, couverture</span>",
+                                        "target": "dick"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">manteau, couverture</span>",
+                                        "target": "schwer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">poitrine, l\u00e8vres</span>",
+                                        "target": "voll"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">rate, foie</span>",
+                                        "target": "vergr\u00f6\u00dfert"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> comme une cerise</span>",
+                                        "target": "kirschgro\u00df"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> comme un caillou/une pomme</span>",
+                                        "target": "so gro\u00df wie ein Kieselstein/ein Apfel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> comme un caillou/une pomme</span>",
+                                        "target": "von der Gr\u00f6\u00dfe eines Kieselstein[e]s/eines Apfels"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> comme le poing</span>",
+                                        "target": "faustgro\u00df"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(de taille sup\u00e9rieure)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span>",
+                                        "target": "gro\u00df"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">gibier <strong class=\"tilde\">gros</strong></span>",
+                                        "target": "Gro\u00dfwild <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">en <strong class=\"tilde\">gros</strong> caract\u00e8res</span>",
+                                        "target": "in gro\u00dfen Buchstaben <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> Lettern]</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. gros <span class=\"info\"><acronym title=\"aussi\">a.</acronym> <acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(corpulent)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">personne</span>",
+                                        "target": "dick"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">une <strong class=\"tilde\">grosse</strong> dondon</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "eine dicke Nudel <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros(se)</strong> comme une boule</span>",
+                                        "target": "kugelrund"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(intense)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">averse, chute de neige</span>",
+                                        "target": "stark"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">r\u00e9colte</span>",
+                                        "target": "reich"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">s\u00e9cheresse</span>",
+                                        "target": "lang"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">app\u00e9tit, morceau</span>",
+                                        "target": "gro\u00df"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">fi\u00e8vre, rhume</span>",
+                                        "target": "stark"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">soupir</span>",
+                                        "target": "tief"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">soupir</span>",
+                                        "target": "schwer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">voix</span>",
+                                        "target": "laut"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"sense\">(consid\u00e9rable)</span> <span class=\"collocator\">faute, d\u00e9penses, affaire</span>",
+                                        "target": "gro\u00df"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"sense\">(g\u00e9n\u00e9reusement mesur\u00e9)</span> <span class=\"collocator\">quart d&#39;heure, kilo</span>",
+                                        "target": "gut"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">acheter par [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> en] <strong class=\"tilde\">grosses</strong> quantit\u00e9s</span>",
+                                        "target": "gro\u00dfe Mengen  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> en gros]</span>  kaufen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(important)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">d\u00e9g\u00e2ts, op\u00e9ration</span>",
+                                        "target": "schwer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> client</span>",
+                                        "target": "Gro\u00dfkunde <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> consommateur</span>",
+                                        "target": "Gro\u00dfverbraucher <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(extr\u00eame)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">buveur, mangeur</span>",
+                                        "target": "stark"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">joueur</span>",
+                                        "target": "eifrig"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">fain\u00e9ant</span>",
+                                        "target": "gro\u00df"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> malin, va !</span>",
+                                        "target": "du Schlaumeier  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> Schlauberger]</span> ! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> b\u00eata [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> nigaud]!</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "du Dummkopf! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "8. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(peu raffin\u00e9)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span>",
+                                        "target": "grob"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">plaisanterie</span>",
+                                        "target": "grob"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">plaisanterie</span>",
+                                        "target": "derb"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">rire</span>",
+                                        "target": "laut"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">bon sens</span>",
+                                        "target": "einfach"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> rouge</span>",
+                                        "target": "billiger Rotwein"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "9. gros <span class=\"sense\">(incroyable)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">histoire</span>",
+                                        "target": "\u00fcbertrieben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;est un peu <strong class=\"tilde\">gros!</strong></span>",
+                                        "target": "das ist ganz sch\u00f6n dick aufgetragen! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">c&#39;est un peu <strong class=\"tilde\">gros!</strong></span> <span class=\"sense\">(scandaleux)</span>",
+                                        "target": "das ist ein starkes St\u00fcck! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "10. gros <span class=\"info\"><acronym title=\"prefixed\">prefixed</acronym></span> <span class=\"sense\">(de base)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">travaux</span>",
+                                        "target": "schwer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">travaux</span>",
+                                        "target": "grob"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">grosse</strong> industrie</span>",
+                                        "target": "Schwerindustrie <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> \u0153uvre</span>",
+                                        "target": "Rohbau <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "11. gros <span class=\"sense\">(plein de)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> de chagrin</span>",
+                                        "target": "voller Kummer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros</strong> de cons\u00e9quences</span>",
+                                        "target": "folgenschwer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">les yeux <strong class=\"tilde\">gros</strong> de larmes</span>",
+                                        "target": "mit Tr\u00e4nen in den Augen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">le c\u0153ur <strong class=\"tilde\">gros</strong> de d\u00e9sirs</span>",
+                                        "target": "das Herz voller W\u00fcnsche"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "12. gros <span class=\"topic\"><acronym title=\"nautical, naval\">NAUT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">mer</span>",
+                                        "target": "bewegt"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">rivi\u00e8re</span>",
+                                        "target": "angestiegen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros</strong><span class=\"feminine\">(se)</span> <span class=\"collocator\">rivi\u00e8re</span>",
+                                        "target": "angeschwollen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "gros",
+                        "headword_full": "gros    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "gagner <strong class=\"tilde\">gros</strong>",
+                                        "target": "viel gewinnen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "demi-gros",
+                        "headword_full": "demi-gros    <span class=\"phonetics\">[d(\u0259)mig\u0280o]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"info\">sans <acronym title=\"plural\">pl</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">demi-gros</strong>",
+                                        "target": "Zwischenhandel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros-bec",
+                        "headword_full": "gros-bec   <span class=\"flexion\">&lt;gros-becs&gt;</span>  <span class=\"phonetics\">[g\u0280ob\u025bk]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"ornithology\">ORN</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros-bec</strong>",
+                                        "target": "Kernbei\u00dfer <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">gros-bec</strong> casse-noyaux</span>",
+                                        "target": "Kirschkernbei\u00dfer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros-cul",
+                        "headword_full": "gros-cul   <span class=\"flexion\">&lt;gros-culs&gt;</span>  <span class=\"phonetics\">[g\u0280oky]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros-cul</strong>",
+                                        "target": "Brummi <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros-grain",
+                        "headword_full": "gros-grain   <span class=\"flexion\">&lt;gros-grains&gt;</span>  <span class=\"phonetics\">[g\u0280og\u0280\u025b\u0342]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"textiles\">TEXTIL</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros-grain</strong> <span class=\"sense\">(ruban)</span>",
+                                        "target": "Seidenripsband <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">gros-grain</strong> <span class=\"sense\">(tissu)</span>",
+                                        "target": "Seidenrips <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Gros-Jean",
+                        "headword_full": "Gros-Jean    <span class=\"phonetics\">[g\u0280o\u0292\u0251\u0342]</span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre <strong class=\"tilde\">Gros-Jean</strong> comme devant</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(ne pas en \u00eatre plus avanc\u00e9 qu&#39;avant)</span>",
+                                        "target": "[genau]so klug wie vorher sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre <strong class=\"tilde\">Gros-Jean</strong> comme devant</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(d\u00e9sillusionn\u00e9)</span>",
+                                        "target": "[entt\u00e4uscht] dumm aus der W\u00e4sche gucken"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "gros-porteur",
+                        "headword_full": "gros-porteur   <span class=\"flexion\">&lt;gros-porteurs&gt;</span>  <span class=\"phonetics\">[g\u0280op\u0254\u0280t\u0153\u0280]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">avion <strong class=\"tilde\">gros-porteur</strong></span>",
+                                        "target": "Gro\u00df[raum]flugzeug <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "gros-porteur",
+                        "headword_full": "gros-porteur   <span class=\"flexion\">&lt;gros-porteurs&gt;</span>  <span class=\"phonetics\">[g\u0280op\u0254\u0280t\u0153\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">gros-porteur</strong>",
+                                        "target": "Gro\u00dfraumflugzeug <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

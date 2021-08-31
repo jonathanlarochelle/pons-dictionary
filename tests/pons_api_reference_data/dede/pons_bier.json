@@ -1,0 +1,86 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Bi\u0331e\u0331r",
+                        "headword_full": "<span class=\"genus\">das</span> Bi\u0331e\u0331r   <span class=\"flexion\">&lt;-(e)s, -e&gt;</span>  <span class=\"wordclass\"></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"definition\">ein aus Hopfen, Malz, Hefe und Wasser durch G\u00e4rung hergestelltes alkoholisches Getr\u00e4nk</span>",
+                                        "target": ""
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ein alkoholfreies/k\u00fchles/oberg\u00e4riges Bier</span>",
+                                        "target": ""
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">Das Bier ist abgestanden/ist frisch vom Fass/ sch\u00e4umt im Glas.</span>",
+                                        "target": ""
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">noch mit auf ein Bier gehen/beim Bier sitzen/ zum Bier einen Schnaps bestellen</span>",
+                                        "target": ""
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">das ist nicht mein Bier</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(das ist nicht meine Sache)</span>",
+                                        "target": ""
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u25a0 -abend, -bauch, -dose, -durst, -fass, -flasche, -garten, -glas, -hefe, -kasten, -keller, -kneipe, -krug, -kr\u00fcgel, -leiche, -tisch, -trinker(in), Alt-, Bock-, Dinkel-, Emmer-, Export-, Hafer-, Lager-, Leicht-, Malz-, Rauch-, Roggen-, Schank-, Schwarz-, Spezial-, Stark-, Voll-, Weizen-</span>",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "",
+                        "headword_full": "",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "Eines der beliebtesten Getr\u00e4nke in Deutschland ist das <b>Bier</b>. Diese Tatsache kennt man schon vom M\u00fcnchner Oktoberfest, dem weltweit bekannten und beliebten Bierfest. Bei einem solchen sitzen die Menschen an \u201eBiertischen\u201c in einem \u201eBierzelt\u201c und genie\u00dfen au\u00dfer Bier auch gern deftige Speisen. Bier trinkt man aus einem \u201eBierglas\u201c oder einem \u201eBierkrug\u201c; und in Bayern bestellt man eine \u201eMa\u00df\u201c, das hei\u00dft einen Liter Bier. Nach einer Statistik aus dem Jahre 2006 steht Deutschland beim Bierkonsum an zweiter Stelle (\u00d6sterreich an dritter, die Schweiz an elfter Stelle). In Bayern soll der Durchschnittsverbrauch am h\u00f6chsten sein, in Weingebieten (wie in der Pfalz) am niedrigsten. In Deutschland gilt das Reinheitsgebot, das Verordnungen \u00fcber Inhaltsstoffe des Biers umfasst: Bier darf nur aus Hopfen, Malz und Wasser bestehen. Das Reinheitsgebot geht (nach verschiedenen Vorl\u00e4ufern dazu) auf das bayerische Reinheitsgebot aus dem Jahre 1516 zur\u00fcck. Nach dem Lebensmittelrecht werden nach dem Gehalt der Stammw\u00fcrze z.B. unterschieden: Einfach-, Schank-, Voll- und Starkbiere. Nach der Sorte der verwendeten Hefe werden oberg\u00e4rige Biere (z.B. K\u00f6lsch, Weizenbiere, oder das vor allem in D\u00fcsseldorf sehr beliebte, dunkle Altbier) und unterg\u00e4rige Biere (z.B. Export-, Pils- und Schwarzbiere, M\u00e4rzen) unterschieden. Einige Sorten, so die Bockbiere (auch <i>Starkbiere</i> genannt), k\u00f6nnen sowohl ober-, als auch unterg\u00e4rig sein (z.B. Doppelbock und Maibock). Daneben gibt es alkoholfreie Biersorten, aber auch verschiedene Biermischgetr\u00e4nke. Am \u201eBiertisch\u201c kann es recht lustig zugehen: Dann sind die \u201eBiertrinker\u201c \u00fcberhaupt nicht \u201ebierernst\u201c (\u00fcberm\u00e4\u00dfig ernst). Wer aber mehr Bier trinkt als ihm gut tut, der ist eine \u201eBierleiche\u201c (v\u00f6llig betrunken); und wer regelm\u00e4\u00dfig zu viel Bier trinkt, bekommt einen \u201eBierbauch\u201c. Das Herstellen von Bier nennt man <i>Brauen</i>; eine Firma, die Bier braut, hei\u00dft <i>Brauerei.</i>\n\t\t\t\t",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bi\u0331",
+                        "headword_full": " bi\u0331    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(bisexuell)</span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "",
+                                        "target": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

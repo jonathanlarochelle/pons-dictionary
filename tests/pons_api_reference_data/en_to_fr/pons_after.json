@@ -1,0 +1,441 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "after",
+                        "headword_full": "after    <span class=\"phonetics\">[\u02c8\u0251:ft\u0259\u02b3, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8\u00e6ft\u025a]</span> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "1. after:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">after</strong>",
+                                        "target": "apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> two days</span>",
+                                        "target": "deux jours plus tard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> meals</span>",
+                                        "target": "apr\u00e8s manger"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">(a) quarter <strong class=\"tilde\">after</strong> six</span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span>",
+                                        "target": "six heures et quart"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the day <strong class=\"tilde\">after</strong> tomorrow</span>",
+                                        "target": "apr\u00e8s-demain"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> 6 May</span> <span class=\"collocator\">since then</span>",
+                                        "target": "depuis le 6 mai"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> 6 May</span> <span class=\"collocator\">as from then</span>",
+                                        "target": "\u00e0 partir du 6 mai"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. after <span class=\"sense\">(behind)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to run <strong class=\"tilde\">after</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "courir apr\u00e8s <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to go <strong class=\"tilde\">after</strong> one&#39;s goal</span>",
+                                        "target": "poursuivre son but"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to slam the door <strong class=\"tilde\">after</strong> one</span>",
+                                        "target": "claquer la porte derri\u00e8re soi"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. after <span class=\"sense\">(following)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">D comes <strong class=\"tilde\">after</strong> C</span>",
+                                        "target": "le D suit le C"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to have quarrel <strong class=\"tilde\">after</strong> quarrel</span>",
+                                        "target": "avoir dispute sur dispute"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">hour <strong class=\"tilde\">after</strong> hour</span>",
+                                        "target": "pendant des heures"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. after <span class=\"sense\">(trying to get)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">after</strong> <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym></span>",
+                                        "target": "chercher <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the police are <strong class=\"tilde\">after</strong> him</span>",
+                                        "target": "la police le recherche"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">what are you <strong class=\"tilde\">after?</strong></span>",
+                                        "target": "qu&#39;est-ce que vous voulez?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. after <span class=\"sense\">(about)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to ask <strong class=\"tilde\">after</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "demander des nouvelles de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. after <span class=\"sense\">(despite)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> all</span>",
+                                        "target": "apr\u00e8s tout"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">after</strong> all this work</span>",
+                                        "target": "apr\u00e8s tout ce travail"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. after <span class=\"sense\">(similar to)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">drawing <strong class=\"tilde\">after</strong> Picasso</span>",
+                                        "target": "dessin  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  d&#39;apr\u00e8s Picasso"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to name <acronym title=\"something\">sth</acronym>/<acronym title=\"somebody\">sb</acronym> <strong class=\"tilde\">after</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "donner \u00e0 <acronym title=\"quelque chose\">qc</acronym>/<acronym title=\"quelqu'un\">qn</acronym> le nom de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "after",
+                        "headword_full": "after    <span class=\"phonetics\">[\u02c8\u0251:ft\u0259\u02b3, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8\u00e6ft\u025a]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">after</strong>",
+                                        "target": "apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">soon <strong class=\"tilde\">after</strong></span>",
+                                        "target": "peu apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the day <strong class=\"tilde\">after</strong></span>",
+                                        "target": "le lendemain"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "after",
+                        "headword_full": "after    <span class=\"phonetics\">[\u02c8\u0251:ft\u0259\u02b3, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8\u00e6ft\u025a]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">after</strong>",
+                                        "target": "apr\u00e8s (que)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">he spoke <strong class=\"tilde\">after</strong> she went out</span>",
+                                        "target": "il parla apr\u00e8s qu&#39;elle fut sortie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">I&#39;ll call him <strong class=\"tilde\">after</strong> I&#39;ve taken a shower</span>",
+                                        "target": "je l&#39;appellerai quand j&#39;aurai pris une douche"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "after-effect",
+                        "headword_full": "after-effect    <span class=\"phonetics\">[\u02c8\u0251:ft\u0259r\u026a\u02ccfekt, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8\u00e6ft\u025a-]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">after-effect</strong>",
+                                        "target": "r\u00e9percussion <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ask after",
+                        "headword_full": "ask after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">ask after</strong> <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "demander des nouvelles de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chase after",
+                        "headword_full": "chase after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chase after</strong>",
+                                        "target": "courir apr\u00e8s"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "go after",
+                        "headword_full": "go after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">go after</strong> <acronym title=\"somebody\">sb</acronym>/<acronym title=\"something\">sth</acronym></span>",
+                                        "target": "courir apr\u00e8s <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "hanker after",
+                        "headword_full": "hanker after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>, <span class=\"headword\">hanker for</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">hanker after</strong>",
+                                        "target": "se languir de"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "look after",
+                        "headword_full": "look after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">look after</strong>",
+                                        "target": "s&#39;occuper de"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">look after</strong> oneself</span>",
+                                        "target": "prendre soin de soi"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">look after</strong> one&#39;s interests</span>",
+                                        "target": "veiller sur ses propres int\u00e9r\u00eats"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">look after</strong> number one</span> <span class=\"rhetoric\"><acronym title=\"pejorative\">pej</acronym></span>",
+                                        "target": "ne penser qu&#39;\u00e0 ses propres int\u00e9r\u00eats"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "run after",
+                        "headword_full": "run after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">run after</strong>",
+                                        "target": "poursuivre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "sought-after",
+                        "headword_full": "sought-after    <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">sought-after</strong>",
+                                        "target": "recherch\u00e9(e)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "take after",
+                        "headword_full": "take after    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">take after</strong>",
+                                        "target": "ressembler \u00e0"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "after-sales service",
+                        "headword_full": "after-sales service    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"info\">no <acronym title=\"plural\">pl</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">after-sales service</strong>",
+                                        "target": "service  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  apr\u00e8s-vente"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "morning-after pill",
+                        "headword_full": "morning-after pill    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">morning-after pill</strong>",
+                                        "target": "pilule  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  du lendemain"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

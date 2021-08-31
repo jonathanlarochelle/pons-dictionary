@@ -1,0 +1,100 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bi\u00e8re",
+                        "headword_full": "bi\u00e8re<sup>1</sup>    <span class=\"phonetics\">[bj\u025b\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bi\u00e8re</strong>",
+                                        "target": "Bier <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">bi\u00e8re</strong> blonde/brune</span>",
+                                        "target": "helles/dunkles Bier"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "bi\u00e8re",
+                        "headword_full": "bi\u00e8re<sup>1</sup>    <span class=\"phonetics\">[bj\u025b\u0280]</span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">bi\u00e8re</strong> [\u00e0 la] pression</span>",
+                                        "target": "Bier vom Fass <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">bi\u00e8re</strong> [\u00e0 la] pression</span>",
+                                        "target": "Fassbier <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bi\u00e8re",
+                        "headword_full": "bi\u00e8re<sup>2</sup>    <span class=\"phonetics\">[bj\u025b\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bi\u00e8re</strong>",
+                                        "target": "Sarg <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettre <acronym title=\"quelqu'un\">qn</acronym> en <strong class=\"tilde\">bi\u00e8re</strong></span>",
+                                        "target": "<acronym title=\"jemanden\">jdn</acronym> in den Sarg legen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "chauffe-bi\u00e8re",
+                        "headword_full": "chauffe-bi\u00e8re   <span class=\"flexion\">&lt;<span class=\"info\"><acronym title=\"plural\">pl</acronym></span> chauffe-bi\u00e8res&gt;</span>  <span class=\"phonetics\">[\u0283ofbj\u025b\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">chauffe-bi\u00e8re</strong>",
+                                        "target": "Bierw\u00e4rmer <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

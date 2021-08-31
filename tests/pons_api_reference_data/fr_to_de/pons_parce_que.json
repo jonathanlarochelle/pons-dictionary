@@ -1,0 +1,51 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "parce que",
+                        "headword_full": "parce que    <span class=\"phonetics\">[pa\u0280sk\u0259]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span> <span class=\"modus\">+<acronym title=\"indicative\">ind</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "1. parce que <span class=\"sense\">(car)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parce que</strong>",
+                                        "target": "weil"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. parce que <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"sense\">(sinon)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parce que</strong>",
+                                        "target": "sonst"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">vous partez? Parce que je suis \u00e0 vous dans deux minutes</span>",
+                                        "target": "geht ihr? Sonst bin ich n\u00e4mlich in zwei Minuten fertig"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. parce que <span class=\"sense\">(c&#39;est comme \u00e7a!)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">parce que!</strong></span>",
+                                        "target": "darum!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

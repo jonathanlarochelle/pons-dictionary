@@ -1,0 +1,341 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annonce",
+                        "headword_full": "annonce    <span class=\"phonetics\">[an\u0254\u0342s]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. annonce:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong> <span class=\"collocator\">d&#39;un \u00e9v\u00e9nement imminent</span>",
+                                        "target": "Ank\u00fcndigung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. annonce <span class=\"sense\">(action d&#39;informer)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong>",
+                                        "target": "Bekanntgabe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. annonce:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong> <span class=\"sense\">(information officielle)</span>",
+                                        "target": "Mitteilung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong> <span class=\"sense\">(transmise par les m\u00e9dias)</span>",
+                                        "target": "Meldung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonces</strong> judiciaires</span>",
+                                        "target": "gerichtliche Bekanntmachungen <span class=\"number\"><acronym title=\"pluriel\">Pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">l&#39;annonce</strong> de son licenciement nous a surpris</span>",
+                                        "target": "die Nachricht von seiner/ihrer Entlassung hat uns \u00fcberrascht"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. annonce <span class=\"sense\">(texte)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong>",
+                                        "target": "Anzeige <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong>",
+                                        "target": "Inserat <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonce</strong> chiffr\u00e9e</span>",
+                                        "target": "Chiffreanzeige"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">petite <strong class=\"tilde\">annonce</strong> [dans un journal]</span>",
+                                        "target": "Zeitungsinserat"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">les petites <strong class=\"tilde\">annonces</strong></span> <span class=\"sense\">(rubrique)</span>",
+                                        "target": "die Kleinanzeigen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">les petites <strong class=\"tilde\">annonces</strong></span> <span class=\"sense\">(rubrique)</span>",
+                                        "target": "der Anzeigenteil"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonce</strong> publicitaire</span> <span class=\"sense\">(dans la presse)</span>",
+                                        "target": "Anzeige"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonce</strong> publicitaire</span> <span class=\"sense\">(\u00e0 la radio, t\u00e9l\u00e9)</span>",
+                                        "target": "Werbung <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonce</strong> publicitaire</span> <span class=\"sense\">(\u00e0 la radio, t\u00e9l\u00e9)</span>",
+                                        "target": "Reklame <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annonce</strong> et opportunit\u00e9 d&#39;affaires</span>",
+                                        "target": "Gesch\u00e4ftsanzeige"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettre [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> passer] une <strong class=\"tilde\">annonce</strong> dans un journal</span>",
+                                        "target": "[in einer Zeitung] inserieren"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">mettre [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> passer] une <strong class=\"tilde\">annonce</strong> dans un journal</span>",
+                                        "target": "eine Annonce [in einer Zeitung] aufgeben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">faire une <strong class=\"tilde\">annonce</strong> publicitaire par affiches</span>",
+                                        "target": "Plakatwerbung machen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. annonce <span class=\"sense\">(sur un r\u00e9pondeur, \u00e0 l&#39;a\u00e9roport)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong>",
+                                        "target": "Ansage <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. annonce:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong> <span class=\"sense\">(pr\u00e9sage)</span>",
+                                        "target": "Vorbote <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong> <span class=\"sense\">(indice)</span>",
+                                        "target": "Anzeichen <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. annonce <span class=\"topic\"><acronym title=\"cards\">CARDS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annonce</strong>",
+                                        "target": "Ansage <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annonce",
+                        "headword_full": "annonce    <span class=\"phonetics\">[an\u0254\u0342s]</span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">annonce</strong> de d\u00e9c\u00e8s</span>",
+                                        "target": "Traueranzeige <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">annonce</strong> de mariage</span>",
+                                        "target": "Hochzeitsanzeige <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "bande-annonce",
+                        "headword_full": "bande-annonce   <span class=\"flexion\">&lt;bandes-annonces&gt;</span>  <span class=\"phonetics\">[b\u0251\u0342dan\u0254\u0342s]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">bande-annonce</strong>",
+                                        "target": "Trailer <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">bande-annonce</strong>",
+                                        "target": "Vorschau <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annoncer",
+                        "headword_full": "annoncer    <span class=\"phonetics\">[an\u0254\u0342se]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. annoncer <span class=\"sense\">(communiquer)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"colloc\">(fait, d\u00e9cision)</span>",
+                                        "target": "bekannt geben"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"colloc\">(fait, d\u00e9cision)</span>",
+                                        "target": "mitteilen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"sense\">(\u00e0 la radio, la TV)</span> <span class=\"colloc\">(fait, d\u00e9cision)</span>",
+                                        "target": "melden"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"colloc\">(\u00e9v\u00e9nement imminent)</span>",
+                                        "target": "ank\u00fcndigen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. annoncer <span class=\"sense\">(signaler l&#39;arriv\u00e9e de <acronym title=\"quelqu'un\">qn</acronym>)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">annoncer</strong> <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "<acronym title=\"jemanden\">jdn</acronym> melden"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. annoncer <span class=\"sense\">(pr\u00e9dire)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong>",
+                                        "target": "ank\u00fcndigen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">on annonce du soleil pour demain</span>",
+                                        "target": "f\u00fcr morgen ist Sonne[nschein] vorhergesagt"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. annoncer <span class=\"sense\">(\u00eatre le signe de)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"colloc\">(printemps)</span>",
+                                        "target": "Vorbote sein f\u00fcr"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong> <span class=\"subject\">signal:</span>",
+                                        "target": "verk\u00fcnden"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">cela n&#39;annonce rien de bon</span>",
+                                        "target": "das verhei\u00dft nichts Gutes"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ambiance qui annonce No\u00ebl</span>",
+                                        "target": "vorweihnachtliche Stimmung"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. annoncer <span class=\"topic\"><acronym title=\"cards\">CARDS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annoncer</strong>",
+                                        "target": "ansagen"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annoncer",
+                        "headword_full": "annoncer    <span class=\"phonetics\">[an\u0254\u0342se]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "pronomial verb",
+                        "arabs": [
+                            {
+                                "header": "1. annoncer <span class=\"sense\">(arriver)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;annoncer</strong></span>",
+                                        "target": "sich ank\u00fcndigen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;annoncer</strong></span>",
+                                        "target": "sich abzeichnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;annoncer</strong></span> <span class=\"subject\">\u00e9t\u00e9:</span>",
+                                        "target": "vor der T\u00fcr stehen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. annoncer <span class=\"sense\">(se pr\u00e9senter)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">\u00e7a ne s&#39;annonce pas facile</span>",
+                                        "target": "das scheint nicht einfach zu werden"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bien/mal <strong class=\"tilde\">s&#39;annoncer</strong></span>",
+                                        "target": "gut/schlecht anfangen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00e7a s&#39;annonce bien</span>",
+                                        "target": "es sieht gut  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> viel versprechend]</span>  aus"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "annoncer",
+                        "headword_full": "annoncer    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">annoncer</strong> <span class=\"sense\">(rendre public)</span>",
+                                        "target": "ver\u00f6ffentlichen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

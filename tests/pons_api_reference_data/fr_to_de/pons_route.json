@@ -1,0 +1,354 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"phonetics\">[\u0280ut]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. route <span class=\"sense\">(voie)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Stra\u00dfe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la <strong class=\"tilde\">route</strong> de Paris</span>",
+                                        "target": "die Stra\u00dfe nach Paris"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> nationale</span>",
+                                        "target": "Nationalstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> nationale</span> <span class=\"sense\">(in Deutschland)</span>",
+                                        "target": "\u2248 Bundesstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> d\u00e9partementale</span>",
+                                        "target": "D\u00e9partementstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> d\u00e9partementale</span> <span class=\"sense\">(in Deutschland)</span>",
+                                        "target": "\u2248 Landstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">grande <strong class=\"tilde\">route</strong></span>",
+                                        "target": "Fernverkehrsstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> secondaire</span>",
+                                        "target": "Nebenstra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> de d\u00e9gagement</span>",
+                                        "target": "Entlastungsstra\u00dfe"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. route <span class=\"sense\">(voyage)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Fahrt <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">trois heures de <strong class=\"tilde\">route</strong></span>",
+                                        "target": "drei Stunden Fahrzeit"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre en <strong class=\"tilde\">route</strong> pour Paris</span>",
+                                        "target": "nach Paris unterwegs sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre en <strong class=\"tilde\">route</strong> pour Paris</span>",
+                                        "target": "auf dem Weg nach Paris sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">faire <strong class=\"tilde\">route</strong> vers Paris</span>",
+                                        "target": "nach Paris fahren"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">faire <strong class=\"tilde\">route</strong> avec <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "mit <acronym title=\"jemandem\">jdm</acronym> unterwegs sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">bonne <strong class=\"tilde\">route!</strong></span>",
+                                        "target": "gute Fahrt!"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. route <span class=\"sense\">(itin\u00e9raire, chemin)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Weg <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Route <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">demander sa <strong class=\"tilde\">route</strong></span>",
+                                        "target": "nach dem Weg fragen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">perdre sa <strong class=\"tilde\">route</strong></span>",
+                                        "target": "sich verfahren"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">changer de <strong class=\"tilde\">route</strong></span>",
+                                        "target": "den Kurs \u00e4ndern"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre sur la bonne <strong class=\"tilde\">route</strong></span>",
+                                        "target": "auf dem richtigen Weg sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">couper [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> barrer] la <strong class=\"tilde\">route</strong> \u00e0 <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "<acronym title=\"jemandem\">jdm</acronym> den Weg versperren"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. route <span class=\"topic\"><acronym title=\"nautical, naval\">NAUT</acronym>, <acronym title=\"aviation\">AVIAT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Route <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> a\u00e9rienne</span>",
+                                        "target": "Flugroute"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. route <span class=\"info\">sans <acronym title=\"plural\">pl</acronym></span> <span class=\"sense\">(moyen de transport)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Stra\u00dfenverkehr <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "Stra\u00dfe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">venir par la <strong class=\"tilde\">route</strong></span>",
+                                        "target": "mit dem Auto kommen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "6. route <span class=\"sense\">(ligne de communication)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> a\u00e9rienne/maritime</span>",
+                                        "target": "Luft-/Seeweg <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> strat\u00e9gique</span>",
+                                        "target": "strategisch wichtige Stra\u00dfe"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> de la soie/du sel</span>",
+                                        "target": "Seiden-/Salzstra\u00dfe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> des Indes</span>",
+                                        "target": "Weg  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  nach Indien"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "7. route <span class=\"sense\">(parcours)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">route</strong> du bonheur/succ\u00e8s</span>",
+                                        "target": "Weg  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  zum Gl\u00fcck/Erfolg"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">nos <strong class=\"tilde\">routes</strong> se sont crois\u00e9es</span>",
+                                        "target": "unsere Wege haben sich gekreuzt"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">sa <strong class=\"tilde\">route</strong> est d\u00e9j\u00e0 toute trac\u00e9e</span>",
+                                        "target": "sein/ihr Weg ist bereits vorgezeichnet"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">faire fausse <strong class=\"tilde\">route</strong></span>",
+                                        "target": "vom Weg abkommen"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">faire fausse <strong class=\"tilde\">route</strong></span> <span class=\"sense\">(se tromper)</span>",
+                                        "target": "auf dem Holzweg sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">avoir <acronym title=\"quelque chose\">qc</acronym> en <strong class=\"tilde\">route</strong></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> in Gang gesetzt haben"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">faire de la <strong class=\"tilde\">route</strong></span>",
+                                        "target": "viel herumreisen"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">mettre <acronym title=\"quelque chose\">qc</acronym> en <strong class=\"tilde\">route</strong></span>",
+                                        "target": "<acronym title=\"etwas\">etw</acronym> in Gang setzen"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">tenir la <strong class=\"tilde\">route</strong></span> <span class=\"subject\">voiture:</span>",
+                                        "target": "eine gute Stra\u00dfenlage haben"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">tenir la <strong class=\"tilde\">route</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span> <span class=\"subject\">projet:</span>",
+                                        "target": "realisierbar sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">tenir la <strong class=\"tilde\">route</strong></span> <span class=\"subject\">personne:</span>",
+                                        "target": "verl\u00e4sslich sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">en <strong class=\"tilde\">route!</strong></span>",
+                                        "target": "auf geht&#39;s! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "En <strong class=\"tilde\">route!</strong> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "Na dann los!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "tenir la <strong class=\"tilde\">route</strong> <span class=\"sense\">(argument / raisonnement)</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "stichhaltig / einleuchtend sein"
+                                    },
+                                    {
+                                        "source": "ne pas tenir la <strong class=\"tilde\">route</strong> <span class=\"sense\">(argument / raisonnement)</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "abwegig / nicht schl\u00fcssig sein"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "tailler la [ou sa] <strong class=\"tilde\">route</strong> <span class=\"sense\">(s&#39;en aller)</span> <span class=\"style\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"French slang\">French sl</acronym></span>",
+                                        "target": "abhauen / seiner Wege gehen"
+                                    },
+                                    {
+                                        "source": "taille ta <strong class=\"tilde\">route</strong> ! <span class=\"sense\">(fous le camp !)</span> <span class=\"style\"><acronym title=\"offensive\">offens</acronym></span> <span class=\"style\"><acronym title=\"very informal\">inf!</acronym></span>",
+                                        "target": "Hau ab! / Mach&#39; dich vom Acker! <span class=\"style\"><acronym title=\"offensive\">offens</acronym></span> <span class=\"style\"><acronym title=\"very informal\">inf!</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "grand-route",
+                        "headword_full": "grand-route   <span class=\"flexion\">&lt;grands-routes&gt;</span>  <span class=\"phonetics\">[g\u0280\u0251\u0342\u0280ut]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">grand-route</strong>",
+                                        "target": "Landstra\u00dfe <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "routeur",
+                        "headword_full": "routeur, <span class=\"headword\">router</span> <span class=\"phonetics\">[\u0280ut\u0153\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">routeur</strong>",
+                                        "target": "Router <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

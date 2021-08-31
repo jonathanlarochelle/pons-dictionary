@@ -1,0 +1,65 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "because",
+                        "headword_full": "because    <span class=\"phonetics\">[b\u026a\u02c8k\u0252z, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -\u02c8k\u0251:z]</span> <span class=\"wordclass\"><acronym title=\"conjunction\">CONJ</acronym></span>",
+                        "wordclass": "conjunction",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">because</strong>",
+                                        "target": "parce que"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">because</strong> I said that, I had to leave</span>",
+                                        "target": "j&#39;ai d\u00fb partir pour avoir dit cela"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">because</strong> it&#39;s snowing</span>",
+                                        "target": "\u00e0 cause de la neige"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">not <strong class=\"tilde\">because</strong> I am sad, but ...</span>",
+                                        "target": "non que je sois triste  <span class=\"info\">(<acronym title=\"subjunctive\">subj</acronym>)</span> , mais ..."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "because",
+                        "headword_full": "because    <span class=\"phonetics\">[b\u026a\u02c8k\u0252z, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -\u02c8k\u0251:z]</span> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">because</strong> of me</span>",
+                                        "target": "\u00e0 cause de moi"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">because</strong> of illness</span>",
+                                        "target": "pour cause de maladie"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">because</strong> of the fine weather</span>",
+                                        "target": "en raison du beau temps"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

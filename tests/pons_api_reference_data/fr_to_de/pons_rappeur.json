@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "rappeur",
+                        "headword_full": "rappeur <span class=\"feminine\">(-euse)</span>   <span class=\"phonetics\">[\u0280ap\u0153\u0280, -\u00f8z]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine, feminine\">m, f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">rappeur</strong> <span class=\"feminine\">(-euse)</span>",
+                                        "target": "Rapper<span class=\"feminine\">(in)</span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"genus\">(<acronym title=\"feminine\">f</acronym>)</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

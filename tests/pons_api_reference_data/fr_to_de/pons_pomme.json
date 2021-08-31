@@ -1,0 +1,354 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pomme",
+                        "headword_full": "pomme    <span class=\"phonetics\">[p\u0254m]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. pomme:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong>",
+                                        "target": "Apfel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> d&#39;hiver</span>",
+                                        "target": "Winterapfel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> d&#39;api</span>",
+                                        "target": "kleiner rotb\u00e4ckiger Apfel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> de reinette</span>",
+                                        "target": "Renette <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> golden</span>",
+                                        "target": "Golden Delicious <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> \u00e0 couteau</span>",
+                                        "target": "Tafelapfel"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. pomme <span class=\"sense\">(pomme de terre)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong>",
+                                        "target": "Kartoffel <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong>",
+                                        "target": "Erdapfel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"region\"><acronym title=\"Austrian\" class=\"A\">A</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pommes</strong> frites</span>",
+                                        "target": "Pommes frites <span class=\"number\"><acronym title=\"pluriel\">Pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pommes</strong> saut\u00e9es</span>",
+                                        "target": "Bratkartoffeln <span class=\"number\"><acronym title=\"pluriel\">Pl</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pommes</strong> mousseline</span>",
+                                        "target": "Kartoffelschnee <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pommes</strong> mousseline</span>",
+                                        "target": "Kartoffelp\u00fcree <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pommes</strong> dauphines</span>",
+                                        "target": "Kroketten <span class=\"number\"><acronym title=\"pluriel\">Pl</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. pomme <span class=\"sense\">(c\u0153ur)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong> <span class=\"collocator\">de chou</span>",
+                                        "target": "Herz <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme</strong> de laitue</span>",
+                                        "target": "Salatkopf <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. pomme <span class=\"sense\">(objet en forme de pomme)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong> <span class=\"collocator\">d&#39;une canne</span>",
+                                        "target": "Knauf <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pomme</strong> <span class=\"collocator\">d&#39;un arrosoir</span>",
+                                        "target": "Braus(e)kopf <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre grand(e) [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> haut(e)] comme trois <strong class=\"tilde\">pommes</strong></span>",
+                                        "target": "winzig[klein] sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre grand(e) [<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> haut(e)] comme trois <strong class=\"tilde\">pommes</strong></span> <span class=\"subject\">enfant:</span>",
+                                        "target": "ein Dreik\u00e4sehoch sein <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">rond(e) comme une <strong class=\"tilde\">pomme</strong></span>",
+                                        "target": "kugelrund"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre/tomber dans les <strong class=\"tilde\">pommes</strong></span>",
+                                        "target": "umgekippt sein/umkippen <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">aux <strong class=\"tilde\">pommes</strong> !</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "super! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">pour ma/ta <strong class=\"tilde\">pomme</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "f\u00fcr mich/dich"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00e7a va encore \u00eatre pour ma <strong class=\"tilde\">pomme!</strong></span>",
+                                        "target": "ich werde wohl wieder dran glauben m\u00fcssen! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "pomme",
+                        "headword_full": "pomme    <span class=\"phonetics\">[p\u0254m]</span>",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">pomme</strong> d&#39;Adam</span>",
+                                        "target": "Adamsapfel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">pomme</strong> de discorde</span>",
+                                        "target": "Zankapfel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">pomme</strong> de douche</span>",
+                                        "target": "Duschkopf <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"complement\"><strong class=\"tilde\">pomme</strong> de pin</span>",
+                                        "target": "Tannenzapfen <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "pomme",
+                        "headword_full": "pomme    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">pomme</strong> rouge <span class=\"grammar SUBST\"><acronym title=\"feminine\">f</acronym></span>",
+                                        "target": "Rotapfel <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "Pomme",
+                        "headword_full": "Pomme    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "Grosse <strong class=\"tilde\">Pomme</strong> <span class=\"topic\"><acronym title=\"geography\">GEOG</acronym></span>",
+                                        "target": "Big Apple (NY)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pomm\u00e9",
+                        "headword_full": "pomm\u00e9<span class=\"feminine\">(e)</span>   <span class=\"phonetics\">[p\u0254me]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">laitue <strong class=\"tilde\">pomm\u00e9e</strong></span>",
+                                        "target": "Kopfsalat <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">chou <strong class=\"tilde\">pomm\u00e9</strong></span>",
+                                        "target": "Wei\u00dfkohl <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pommer",
+                        "headword_full": "pommer    <span class=\"phonetics\">[p\u0254me]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pommer</strong>",
+                                        "target": "einen Kopf bilden"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "vide-pomme",
+                        "headword_full": "vide-pomme   <span class=\"flexion\">&lt;vide-pommes&gt;</span>  <span class=\"phonetics\">[vidp\u0254m]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">vide-pomme</strong>",
+                                        "target": "Apfelausstecher <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "\u00e9pluche-pomme de terre",
+                        "headword_full": "\u00e9pluche-pomme de terre<span class=\"headword_spelling\"><acronym title=\"French spelling reform, 1990\">NO</acronym></span>   <span class=\"flexion\">&lt;\u00e9pluche-pommes de terre&gt;</span>  <span class=\"phonetics\">[eply\u0283p\u0254md\u0259t\u025b\u0280]</span>, <span class=\"headword\">\u00e9pluche-pommes de terre<span class=\"headword_spelling\"><acronym title=\"traditional spelling\">OT</acronym></span></span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">\u00e9pluche-pomme de terre</strong>",
+                                        "target": "Kartoffelsch\u00e4ler <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "pomme de terre",
+                        "headword_full": "pomme de terre   <span class=\"flexion\">&lt;pommes de terre&gt;</span>  <span class=\"phonetics\">[p\u0254md\u0259t\u025b\u0280]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">pomme de terre</strong> <span class=\"sense\">(tubercule)</span>",
+                                        "target": "Kartoffel <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pomme de terre</strong> <span class=\"sense\">(tubercule)</span>",
+                                        "target": "Erdapfel <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span> <span class=\"region\"><acronym title=\"Austrian\" class=\"A\">A</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">pomme de terre</strong> <span class=\"sense\">(plante)</span>",
+                                        "target": "Kartoffelpflanze <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme de terre</strong> en robe de chambre</span> <span class=\"example\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> des champs]</span>",
+                                        "target": "Pellkartoffel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme de terre</strong> en robe de chambre</span> <span class=\"example\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> des champs]</span>",
+                                        "target": "Erdapfel in der Montur <span class=\"region\"><acronym title=\"Austrian\" class=\"A\">A</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme de terre</strong> nouvelle</span>",
+                                        "target": "neue Kartoffel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme de terre</strong> nouvelle</span>",
+                                        "target": "Salatkartoffel"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">pomme de terre</strong> d&#39;hiver</span>",
+                                        "target": "Winterkartoffel"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

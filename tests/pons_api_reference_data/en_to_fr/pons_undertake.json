@@ -1,0 +1,50 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "undertake",
+                        "headword_full": "undertake    <span class=\"phonetics\">[\u02cc\u028cnd\u0259\u02c8te\u026ak, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -d\u025a\u02c8-]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"info\"><acronym title=\"irregular\">irreg</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. undertake <span class=\"sense\">(set about, take on)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">undertake</strong>",
+                                        "target": "entreprendre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">undertake</strong> <span class=\"collocator\">mission</span>",
+                                        "target": "se charger de"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">undertake</strong> <span class=\"collocator\">a role</span>",
+                                        "target": "assumer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. undertake <span class=\"style\"><acronym title=\"formal language\">form</acronym></span> <span class=\"sense\">(commit oneself to, guarantee)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">undertake</strong> to</span> <span class=\"modus\">+<acronym title=\"infinitive\">infin</acronym></span>",
+                                        "target": "s&#39;engager \u00e0 <span class=\"modus\">+<acronym title=\"infinitive\">infin</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">undertake</strong> (that) ...</span>",
+                                        "target": "promettre que ..."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

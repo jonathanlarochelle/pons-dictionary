@@ -1,0 +1,119 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "habiter",
+                        "headword_full": "habiter    <span class=\"phonetics\">[abite]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">habiter</strong>",
+                                        "target": "wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> \u00e0 la campagne/en ville/\u00e0 Rennes</span>",
+                                        "target": "auf dem Land/in der Stadt/in Rennes wohnen <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> leben]</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> au num\u00e9ro 17</span>",
+                                        "target": "in [der] Nummer 17 wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> seul(e)/avec <acronym title=\"quelqu'un\">qn</acronym>/chez <acronym title=\"quelqu'un\">qn</acronym></span>",
+                                        "target": "allein/mit <acronym title=\"jemandem\">jdm</acronym> zusammen/bei <acronym title=\"jemandem\">jdm</acronym> wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> dans un appartement/une maison</span>",
+                                        "target": "in einer Wohnung/einem Haus wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> en collocation</span>",
+                                        "target": "in einer Wohngemeinschaft wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> en colloc <span class=\"style\"><acronym title=\"informal\">inf</acronym></span></span>",
+                                        "target": "in einer WG wohnen <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "habiter",
+                        "headword_full": "habiter    <span class=\"phonetics\">[abite]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. habiter:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> une maison/la banlieue/la campagne</span>",
+                                        "target": "in einem Haus/in der Vorstadt/auf dem Land wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> le 17, rue Leblanc</span>",
+                                        "target": "in der Rue Leblanc Nummer 17 wohnen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre habit\u00e9(e)</span>",
+                                        "target": "bewohnt sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">la maison n&#39;a pas l&#39;air habit\u00e9e</span>",
+                                        "target": "das Haus sieht nicht bewohnt aus"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. habiter <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span> <span class=\"style\"><acronym title=\"formal language\">form</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym></span>",
+                                        "target": "in <acronym title=\"jemandem\">jdm</acronym>/<acronym title=\"etwas\">etw</acronym> leben"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> un r\u00f4le</span>",
+                                        "target": "eine Rolle leben  <span class=\"target\">[<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> mit Leben f\u00fcllen]</span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">habiter</strong> <acronym title=\"quelqu'un\">qn</acronym></span> <span class=\"subject\">doute:</span>",
+                                        "target": "<acronym title=\"jemanden\">jdn</acronym> beherrschen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "habiter",
+                        "headword_full": "habiter   ",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">habiter</strong> [\u00e0] Paris",
+                                        "target": "in Paris wohnen"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

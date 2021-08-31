@@ -1,0 +1,151 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "unternehmen",
+                        "headword_full": "<span class=\"headword_attributes\" title=\"German past participle formed without ge-\">unternehmen*</span>    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"info\"><acronym title=\"irregular\">irreg</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. unternehmen <span class=\"sense\">(machen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">unternehmen</strong> <span class=\"colloc\">(Ausflug)</span>",
+                                        "target": "entreprendre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">unternehmen</strong> <span class=\"colloc\">(Versuch)</span>",
+                                        "target": "effectuer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">unternehmen</strong> <span class=\"colloc\">(Schritte)</span>",
+                                        "target": "entamer"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. unternehmen <span class=\"sense\">(Vergn\u00fcgliches durchf\u00fchren)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">etwas mit <acronym title=\"jemandem\">jdm</acronym> <strong class=\"tilde\">unternehmen</strong></span>",
+                                        "target": "entreprendre quelque chose avec <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">etwas zusammen <strong class=\"tilde\">unternehmen</strong></span>",
+                                        "target": "faire quelque chose ensemble"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">im Urlaub haben wir viel unternommen</span>",
+                                        "target": "pendant les vacances, on a fait beaucoup de choses"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. unternehmen <span class=\"sense\">(eingreifen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">etwas/nichts gegen <acronym title=\"jemanden\">jdn</acronym>/<acronym title=\"etwas\">etw</acronym> <strong class=\"tilde\">unternehmen</strong></span>",
+                                        "target": "entreprendre quelque chose/ne rien entreprendre contre <acronym title=\"quelqu'un\">qn</acronym>/<acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. unternehmen <span class=\"style\"><acronym title=\"formal language\">form</acronym></span> <span class=\"sense\">(auf sich nehmen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">es <strong class=\"tilde\">unternehmen</strong> <acronym title=\"etwas\">etw</acronym> zu tun</span>",
+                                        "target": "se charger de faire <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Unternehmen",
+                        "headword_full": "Unternehmen   <span class=\"flexion\">&lt;-s, -&gt;</span>  <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. Unternehmen <span class=\"sense\">(Firma)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Unternehmen</strong>",
+                                        "target": "entreprise <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. Unternehmen <span class=\"sense\">(Vorhaben)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Unternehmen</strong>",
+                                        "target": "entreprise <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">Unternehmen</strong>",
+                                        "target": "op\u00e9ration <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "Unternehmen",
+                        "headword_full": "Unternehmen    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "gemischtwirtschaftliches <strong class=\"tilde\">Unternehmen</strong> <span class=\"grammar SUBST\"><acronym title=\"neuter\">nt</acronym></span> <span class=\"topic\"><acronym title=\"commerce\">COMM</acronym></span>, <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>",
+                                        "target": "soci\u00e9t\u00e9 d&#39;\u00e9conomie mixte <span class=\"grammar SUBST\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Dotcom-Unternehmen",
+                        "headword_full": "Dotcom-Unternehmen    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Dotcom-Unternehmen</strong>",
+                                        "target": "[entreprise  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> ] dotcom <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

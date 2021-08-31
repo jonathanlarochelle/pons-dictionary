@@ -1,0 +1,64 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Apfel",
+                        "headword_full": "Apfel   <span class=\"flexion\">&lt;-s, \u00c4pfel&gt;</span>  <span class=\"phonetics\">[\u02c8apf\u0259l, <span class=\"info\">Pl\u02d0</span> \u02c8\u025bpf\u0259l]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Apfel</strong>",
+                                        "target": "pomme <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">der <strong class=\"tilde\">Apfel</strong> f\u00e4llt nicht weit vom Stamm</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "les chiens ne font pas des chats"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">in den sauren <strong class=\"tilde\">Apfel</strong> bei\u00dfen</span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "avaler la pilule <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "Apfel",
+                        "headword_full": "Apfel    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "der <strong class=\"tilde\">Apfel</strong> f\u00e4llt nicht weit vom Stamm <span class=\"category\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "la pomme ne tombe jamais loin de l&#39;arbre"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

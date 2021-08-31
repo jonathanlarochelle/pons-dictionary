@@ -1,0 +1,106 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"phonetics\">[ru:t, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> ra\u028at]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. route <span class=\"sense\">(way)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "itin\u00e9raire <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. route <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"sense\">(delivery path)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "tourn\u00e9e <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to have a milk <strong class=\"tilde\">route</strong></span>",
+                                        "target": "livrer le lait"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to have a paper <strong class=\"tilde\">route</strong></span>",
+                                        "target": "distribuer les journaux"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. route <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"sense\">(road)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "route <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. route <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "voie <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">the <strong class=\"tilde\">route</strong> to success</span>",
+                                        "target": "la voie du succ\u00e8s"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "route",
+                        "headword_full": "route    <span class=\"phonetics\">[ru:t, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> ra\u028at]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">route</strong>",
+                                        "target": "faire passer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "en route",
+                        "headword_full": "en route    <span class=\"phonetics\">[\u02cc\u0252n\u02c8ru:t, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02cc\u0251:n-]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">en route</strong>",
+                                        "target": "en route"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

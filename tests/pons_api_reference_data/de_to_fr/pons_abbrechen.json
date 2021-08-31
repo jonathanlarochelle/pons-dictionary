@@ -1,0 +1,164 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ab|brechen",
+                        "headword_full": "<span class=\"headword_attributes\" title=\"\">ab|brechen</span>    <span class=\"info\"><acronym title=\"irregular\">irreg</acronym></span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span> <span class=\"auxiliary_verb\">+haben</span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbrechen <span class=\"sense\">(l\u00f6sen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Ast)</span>",
+                                        "target": "casser"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Bl\u00fcte)</span>",
+                                        "target": "cueillir"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ein St\u00fcck von <acronym title=\"etwas\">etw</acronym> <strong class=\"tilde\">abbrechen</strong></span>",
+                                        "target": "couper un morceau de <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbrechen <span class=\"sense\">(abbauen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Lager)</span>",
+                                        "target": "lever"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Zelt)</span>",
+                                        "target": "d\u00e9monter"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. abbrechen <span class=\"sense\">(niederrei\u00dfen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Geb\u00e4ude)</span>",
+                                        "target": "d\u00e9truire"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. abbrechen <span class=\"sense\">(beenden)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Kontakt, Behandlung, Studium, Kurs)</span>",
+                                        "target": "interrompre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Beziehungen, Verhandlungen)</span>",
+                                        "target": "rompre"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. abbrechen <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Programm)</span>",
+                                        "target": "suspendre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Programm)</span>",
+                                        "target": "annuler"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"colloc\">(Befehl)</span>",
+                                        "target": "annuler"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">sich <span class=\"case\"><acronym title=\"dative\">dat</acronym></span> einen <strong class=\"tilde\">abbrechen</strong></span> <span class=\"style\"><acronym title=\"slang\">sl</acronym></span> <span class=\"sense\">(viel reden, erkl\u00e4ren)</span>",
+                                        "target": "se casser la t\u00eate <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">sich <span class=\"case\"><acronym title=\"dative\">dat</acronym></span> einen <strong class=\"tilde\">abbrechen</strong> [um <acronym title=\"etwas\">etw</acronym> zu tun]</span> <span class=\"style\"><acronym title=\"slang\">sl</acronym></span> <span class=\"sense\">(sich M\u00fche geben)</span>",
+                                        "target": "se casser le cul [\u00e0 faire <acronym title=\"quelque chose\">qc</acronym>] <span class=\"style\"><acronym title=\"very informal\">inf!</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">[nun] brich dir [mal] keinen ab!</span> <span class=\"style\"><acronym title=\"slang\">sl</acronym></span>",
+                                        "target": "ne te casse pas le cul ! <span class=\"style\"><acronym title=\"very informal\">inf!</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">[nun] brich dir [mal] keinen ab!</span> <span class=\"sense\">(spar dir deine Reden, Erkl\u00e4rungen)</span>",
+                                        "target": "te casse pas la t\u00eate ! <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ab|brechen",
+                        "headword_full": "<span class=\"headword_attributes\" title=\"\">ab|brechen</span>    <span class=\"info\"><acronym title=\"irregular\">irreg</acronym></span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. abbrechen <span class=\"auxiliary_verb\">+sein</span> <span class=\"sense\">(kaputtgehen)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong>",
+                                        "target": "se casser"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. abbrechen <span class=\"sense\">(beendet werden)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"subject\">Kontakt, Verhandlungen:</span>",
+                                        "target": "s&#39;interrompre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span> <span class=\"subject\">Verbindung, Verarbeitung:</span>",
+                                        "target": "se suspendre"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span> <span class=\"subject\">Verbindung, Verarbeitung:</span>",
+                                        "target": "\u00eatre annul\u00e9(e)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "abbrechen",
+                        "headword_full": "abbrechen   ",
+                        "arabs": [
+                            {
+                                "header": "abbrechen <span class=\"indirect_reference_OTHER\">\u2192 Schulabbruch</span>",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">abbrechen</strong>",
+                                        "target": "quitter l\u2019\u00e9cole ou la formation sans qualification ou dipl\u00f4me"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

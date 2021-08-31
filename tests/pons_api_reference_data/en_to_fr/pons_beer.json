@@ -1,0 +1,99 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "beer",
+                        "headword_full": "beer    <span class=\"phonetics\">[b\u026a\u0259\u02b3, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> b\u026ar]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">beer</strong>",
+                                        "target": "bi\u00e8re <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ginger beer",
+                        "headword_full": "ginger beer    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ginger beer</strong>",
+                                        "target": "<span class=\"explanation\">bi\u00e8re \u00e0 base de gingembre</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "root beer",
+                        "headword_full": "root beer    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"sense\">(soft drink)</span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">root beer</strong>",
+                                        "target": "<span class=\"explanation\">boisson gazeuse \u00e0 base de racines de plantes</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "small beer",
+                        "headword_full": "small beer    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to be <strong class=\"tilde\">small beer</strong></span>",
+                                        "target": "avoir peu d&#39;importance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><acronym title=\"something\">sth</acronym> is <strong class=\"tilde\">small beer</strong> compared to <acronym title=\"something\">sth</acronym></span>",
+                                        "target": "<acronym title=\"quelque chose\">qc</acronym> est insignifiant par rapport \u00e0 <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

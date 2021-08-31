@@ -1,0 +1,67 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "wohnen",
+                        "headword_full": "wohnen    <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">wohnen</strong>",
+                                        "target": "habiter"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ich wohne in Dresden</span>",
+                                        "target": "j&#39;habite [\u00e0] Dresde"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">das Wohnen</span>",
+                                        "target": "le logement"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "betreutes Wohnen",
+                        "headword_full": "betreutes Wohnen    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">betreutes Wohnen</strong> <span class=\"sense\">(Pflegeheim)</span> <span class=\"grammar SUBST\"><acronym title=\"neuter\">nt</acronym></span>",
+                                        "target": "r\u00e9sidence m\u00e9dicalis\u00e9e <span class=\"grammar SUBST\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"tilde\">betreutes Wohnen</strong> <span class=\"sense\">(Whg. mit <acronym title=\"besonders\">bes.</acronym> Infrastruktur)</span> <span class=\"grammar SUBST\"><acronym title=\"neuter\">nt</acronym></span>",
+                                        "target": "r\u00e9sidence services seniors <span class=\"grammar SUBST\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"tilde\">betreutes Wohnen</strong> <span class=\"sense\">(Whg. mit <acronym title=\"besonders\">bes.</acronym> Infrastruktur)</span> <span class=\"grammar SUBST\"><acronym title=\"neuter\">nt</acronym></span>",
+                                        "target": "foyer-logement pour personnes \u00e2g\u00e9es <span class=\"grammar SUBST\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

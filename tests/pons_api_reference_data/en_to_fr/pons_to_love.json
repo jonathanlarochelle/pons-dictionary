@@ -1,0 +1,402 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love",
+                        "headword_full": "love    <span class=\"phonetics\">[l\u028cv]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. love:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love</strong>",
+                                        "target": "aimer"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to feel <strong class=\"tilde\">loved</strong></span>",
+                                        "target": "se sentir aim\u00e9"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. love <span class=\"sense\">(greatly like)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">love</strong> to</span> <span class=\"modus\">+<acronym title=\"infinitive\">infin</acronym></span>",
+                                        "target": "adorer <span class=\"modus\">+<acronym title=\"infinitive\">infin</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">I&#39;d <strong class=\"tilde\">love</strong> you to come</span>",
+                                        "target": "\u00e7a me ferait vraiment plaisir que tu viennes <span class=\"info\"><acronym title=\"subjunctive\">subj</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">love</strong> me, <strong class=\"tilde\">love</strong> my dog</span> <span class=\"rhetoric\"><acronym title=\"proverb\">prov</acronym></span>",
+                                        "target": "il faut me prendre comme je suis"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "love",
+                        "headword_full": "love    <span class=\"phonetics\">[l\u028cv]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. love <span class=\"info\">no <acronym title=\"plural\">pl</acronym></span> <span class=\"sense\">(strong affection or passion)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love</strong>",
+                                        "target": "amour <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">love</strong> at first sight</span>",
+                                        "target": "coup  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  de foudre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be in <strong class=\"tilde\">love</strong> with <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "\u00eatre amoureux de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to make <strong class=\"tilde\">love</strong> to <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "faire l&#39;amour \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be head over heels in <strong class=\"tilde\">love</strong> with each other</span>",
+                                        "target": "\u00eatre fous amoureux l&#39;un de l&#39;autre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to fall in <strong class=\"tilde\">love</strong> with <acronym title=\"somebody\">sb</acronym></span>",
+                                        "target": "tomber amoureux de <acronym title=\"quelqu'un\">qn</acronym>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to give <acronym title=\"somebody\">sb</acronym> one&#39;s <strong class=\"tilde\">love</strong></span> <span class=\"sense\">(on letter)</span>",
+                                        "target": "transmettre ses amiti\u00e9s \u00e0 <acronym title=\"quelqu'un\">qn</acronym>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. love <span class=\"info\">no <acronym title=\"plural\">pl</acronym></span> <span class=\"region\"><acronym title=\"British English\" class=\"Brit\">Brit</acronym></span> <span class=\"sense\">(endearing form of address)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love</strong>",
+                                        "target": "mon ch\u00e9ri, ma ch\u00e9rie"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. love <span class=\"info\">no <acronym title=\"plural\">pl</acronym></span> <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love</strong>",
+                                        "target": "z\u00e9ro <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">forty-love</strong></span>",
+                                        "target": "quarante z\u00e9ro"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">you wouldn&#39;t find one not for <strong class=\"tilde\">love</strong> (n)or money</span>",
+                                        "target": "c&#39;est impossible d&#39;en trouver"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">there is no <strong class=\"tilde\">love</strong> lost between the two</span>",
+                                        "target": "ils ne peuvent pas s&#39;encadrer"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "calf love",
+                        "headword_full": "calf love    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"info\">no <acronym title=\"plural\">pl</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">calf love</strong>",
+                                        "target": "amour  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  de jeunesse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love affair",
+                        "headword_full": "love affair    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love affair</strong>",
+                                        "target": "liaison <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to have a <strong class=\"tilde\">love affair</strong> with <acronym title=\"something\">sth</acronym></span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                        "target": "avoir une passion pour <acronym title=\"quelque chose\">qc</acronym>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love child",
+                        "headword_full": "love child    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love child</strong>",
+                                        "target": "enfant  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  de l&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love game",
+                        "headword_full": "love game    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"topic\"><acronym title=\"sports\">SPORTS</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love game</strong>",
+                                        "target": "jeu  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  blanc"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love handles",
+                        "headword_full": "love handles    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"info\"><acronym title=\"plural\">pl</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love handles</strong>",
+                                        "target": "poign\u00e9es  <span class=\"number\">fpl</span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love letter",
+                        "headword_full": "love letter    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love letter</strong>",
+                                        "target": "lettre  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love life",
+                        "headword_full": "love life    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love life</strong>",
+                                        "target": "vie  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  amoureuse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love-making",
+                        "headword_full": "love-making    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love-making</strong>",
+                                        "target": "amour  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  (physique)"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to be good at <strong class=\"tilde\">love-making</strong></span>",
+                                        "target": "bien savoir faire l&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love nest",
+                        "headword_full": "love nest    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love nest</strong>",
+                                        "target": "nid  <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love song",
+                        "headword_full": "love song    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love song</strong>",
+                                        "target": "chanson  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love story",
+                        "headword_full": "love story    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love story</strong>",
+                                        "target": "histoire  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  d&#39;amour"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "love-hate relationship",
+                        "headword_full": "love-hate relationship    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">love-hate relationship</strong>",
+                                        "target": "relation  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  houleuse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

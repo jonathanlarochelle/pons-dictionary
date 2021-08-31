@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Parf\u00fcm",
+                        "headword_full": "Parf\u00fcm   <span class=\"flexion\">&lt;-s, -e [<span class=\"or\"><acronym title=\"oder\">o.</acronym></span> -s]&gt;</span>  <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Parf\u00fcm</strong>",
+                                        "target": "parfum <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

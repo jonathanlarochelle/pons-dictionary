@@ -1,0 +1,78 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "cancel",
+                        "headword_full": "cancel   <span class=\"flexion\">&lt;-ll- [<span class=\"or\"><acronym title=\"or\">or</acronym></span> \n\t\t\t<span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -l-]&gt;</span>  <span class=\"phonetics\">[\u02c8k\u00e6nsl]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. cancel <span class=\"sense\">(annul)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong>",
+                                        "target": "annuler"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong> <span class=\"collocator\">order</span>",
+                                        "target": "d\u00e9commander"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong> <span class=\"collocator\">contract</span>",
+                                        "target": "r\u00e9silier"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong> <span class=\"collocator\">cheque</span>",
+                                        "target": "faire opposition \u00e0"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cancel</strong> a booking</span>",
+                                        "target": "se d\u00e9commander"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">to <strong class=\"tilde\">cancel</strong> each other</span>",
+                                        "target": "s&#39;annuler"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. cancel <span class=\"sense\">(mark as being used)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong> <span class=\"collocator\">a stamp</span>",
+                                        "target": "oblit\u00e9rer"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong> <span class=\"collocator\">ticket</span>",
+                                        "target": "composter"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "cancel",
+                        "headword_full": "cancel   <span class=\"flexion\">&lt;-ll- [<span class=\"or\"><acronym title=\"or\">or</acronym></span> \n\t\t\t<span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> -l-]&gt;</span>  <span class=\"phonetics\">[\u02c8k\u00e6nsl]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">cancel</strong>",
+                                        "target": "se d\u00e9commander"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

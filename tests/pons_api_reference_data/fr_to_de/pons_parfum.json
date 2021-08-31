@@ -1,0 +1,110 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "parfum",
+                        "headword_full": "parfum    <span class=\"phonetics\">[pa\u0280f\u0153\u0342]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "1. parfum <span class=\"sense\">(substance)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parfum</strong>",
+                                        "target": "Parfum <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">parfum</strong>",
+                                        "target": "Parf\u00fcm <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">parfum</strong> <span class=\"sense\">(d&#39;origine naturelle)</span>",
+                                        "target": "Duftstoff <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">parfum</strong> pour dame/homme</span>",
+                                        "target": "Damen-/Herrenparfum"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. parfum <span class=\"sense\">(odeur)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parfum</strong>",
+                                        "target": "Duft <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. parfum <span class=\"topic\"><acronym title=\"food and cooking\">FOOD</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">parfum</strong>",
+                                        "target": "Geschmack <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">parfum</strong> banane/citron/fraise</span>",
+                                        "target": "Bananen-/Zitronen-/Erdbeergeschmack"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">parfum</strong> menthe/vanille</span>",
+                                        "target": "Pfefferminz-/Vanillegeschmack"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">je voudrais une glace. \u2013 Quel <strong class=\"tilde\">parfum?</strong></span>",
+                                        "target": "ich h\u00e4tte gern ein Eis. \u2013 Welche Sorte?"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre au <strong class=\"tilde\">parfum</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "im Bilde sein"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">\u00eatre au <strong class=\"tilde\">parfum</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "Bescheid wissen"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\">mettre <acronym title=\"quelqu'un\">qn</acronym> au <strong class=\"tilde\">parfum</strong></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                                        "target": "<acronym title=\"jemanden\">jdn</acronym> aufkl\u00e4ren"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "brule-parfum",
+                        "headword_full": "brule-parfum<span class=\"headword_spelling\"><acronym title=\"French spelling reform, 1990\">NO</acronym></span>   <span class=\"flexion\">&lt;brule-parfums&gt;</span>  <span class=\"phonetics\">[b\u0280ylpa\u0280f\u0153\u0342]</span>, <span class=\"headword\">br\u00fble-parfum<span class=\"headword_spelling\"><acronym title=\"traditional spelling\">OT</acronym></span></span> <span class=\"info\"><acronym title=\"invariable\">inv</acronym></span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"masculine\">m</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">brule-parfum</strong>",
+                                        "target": "R\u00e4uchergef\u00e4\u00df <span class=\"genus\"><acronym title=\"neuter\">nt</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

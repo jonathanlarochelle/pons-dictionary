@@ -1,0 +1,168 @@
+[
+    {
+        "lang": "en",
+        "hits": [
+            {
+                "type": "entry_with_secondary_entries",
+                "primary_entry": {
+                    "type": "entry",
+                    "opendict": false,
+                    "roms": [
+                        {
+                            "headword": "ad",
+                            "headword_full": "ad    <span class=\"phonetics\">[\u00e6d]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                            "wordclass": "noun",
+                            "arabs": [
+                                {
+                                    "header": "ad <span class=\"indirect_reference_ABBR\">abbreviation of advertisement</span>",
+                                    "translations": [
+                                        {
+                                            "source": "",
+                                            "target": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "secondary_entries": [
+                    {
+                        "type": "entry",
+                        "opendict": false,
+                        "roms": [
+                            {
+                                "headword": "advertisement",
+                                "headword_full": "advertisement    <span class=\"phonetics\">[\u0259d\u02c8v\u025c:t\u026asm\u0259nt, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02cc\u00e6dv\u0259r\u02c8ta\u026azm\u0259nt]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                                "wordclass": "noun",
+                                "arabs": [
+                                    {
+                                        "header": "",
+                                        "translations": [
+                                            {
+                                                "source": "<strong class=\"headword\">advertisement</strong>",
+                                                "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                            },
+                                            {
+                                                "source": "<strong class=\"headword\">advertisement</strong> <span class=\"sense\">(in newspaper)</span>",
+                                                "target": "(petite) annonce <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                            },
+                                            {
+                                                "source": "<span class=\"example\">it&#39;s not a good <strong class=\"tilde\">advertisement</strong> for the school</span> <span class=\"rhetoric\"><acronym title=\"figurative\">fig</acronym></span>",
+                                                "target": "ce n&#39;est pas une bonne pub pour l&#39;\u00e9cole"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "AD",
+                        "headword_full": "AD    <span class=\"phonetics\">[\u02cce\u026a\u02c8di:]</span> <span class=\"wordclass\"><acronym title=\"adjective\">ADJ</acronym></span>",
+                        "wordclass": "adjective and adverb",
+                        "arabs": [
+                            {
+                                "header": "AD <span class=\"indirect_reference_ABBR\">abbreviation of Anno Domini</span>",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">AD</strong>",
+                                        "target": "a.p. J.-C."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "ad-lib",
+                        "headword_full": "ad-lib   <span class=\"flexion\">&lt;-bb-&gt;</span>  <span class=\"phonetics\">[\u02cc\u00e6d\u02c8l\u026ab]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym>, <acronym title=\"intransitive verb\">intr</acronym></span>",
+                        "wordclass": "intransitive or transitive verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ad-lib</strong>",
+                                        "target": "improviser"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "ad-lib",
+                        "headword_full": "ad-lib    <span class=\"phonetics\">[\u02cc\u00e6d\u02c8l\u026ab]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">ad-lib</strong>",
+                                        "target": "improvisation <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "small ad",
+                        "headword_full": "small ad    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">small ad</strong>",
+                                        "target": "petite annonce <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "want ad",
+                        "headword_full": "want ad    <span class=\"phonetics\">[\u02c8w\u0252nt \u02c8\u00e6d, <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> \u02c8w\u0251:nt-]</span> <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"region\"><acronym title=\"American English\" class=\"Am\">Am</acronym></span> <span class=\"style\"><acronym title=\"informal\">inf</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">want ad</strong>",
+                                        "target": "petite annonce <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

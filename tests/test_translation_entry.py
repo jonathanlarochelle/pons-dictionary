@@ -60,6 +60,12 @@ class TestTranslationEntry:
         te = TranslationEntry(api_raw)
         assert te.collocator == 'order'
 
+    def test_modus(self):
+        # 'undertake', en > fr
+        api_raw = '<span class="example">to <strong class="tilde">undertake</strong> to</span> <span class="modus">+<acronym title="infinitive">infin</acronym></span>'
+        te = TranslationEntry(api_raw)
+        assert te.modus == "infinitive"
+
     def test_region(self):
         # 'big', en > fr
         api_raw = '<span class="example">to be <strong class="tilde">big</strong> on <acronym title="something">sth</acronym></span> <span class="region"><acronym title="American English" class="Am">Am</acronym></span>'
@@ -125,7 +131,62 @@ class TestTranslationEntry:
         te = TranslationEntry(api_raw)
         assert str(te) == "gemischtwirtschaftliches Unternehmen"
 
-
     # Test for specific strings, essentially problematic corner cases
     def test_corner_string_1(self):
-        pass
+        # 'live', en > fr
+        api_raw = '<span class="example">as long as <acronym title="somebody">sb</acronym> <strong class="tilde">lives</strong></span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "as long as somebody lives"
+
+    def test_corner_string_2(self):
+        # 'live', en > fr
+        api_raw = 'tant qu&#39;il y aura de la vie'
+        te = TranslationEntry(api_raw)
+        assert te.text == "tant qu'il y aura de la vie"
+
+    def test_corner_string_3(self):
+        # 'live', en > fr
+        api_raw = '<span class="example">to only <strong class="tilde">live</strong> for <acronym title="somebody">sb</acronym>/<acronym title="something">sth</acronym></span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "to only live for somebody/something"
+
+    def test_corner_string_4(self):
+        # 'live', en > fr
+        api_raw = 'appât  <span class="genus"><acronym title="masculine">m</acronym></span>  vivant'
+        te = TranslationEntry(api_raw)
+        assert te.text == "appât vivant"
+
+    def test_corner_string_5(self):
+        # 'big', en > fr
+        api_raw = '<span class="example">she&#39;s <strong class="tilde">big</strong> [<span class="or"><acronym title="or">or</acronym></span> a <strong class="tilde">big</strong> name] in finance</span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "she's big in finance"
+
+    def test_corner_string_6(self):
+        # 'big', en > fr
+        api_raw = '<span class="explanation"><span class="emphasize">Big Ben</span> était à l&#39;origine le surnom donné à la grande cloche de la tour de la &quot;Houses of Parliament&quot; coulée en 1856, surnom hérité du &quot;Chief Commissionner of Works&quot; de l&#39;époque, Sir Benjamin Hall. De nos jours, ce nom est utilisé pour désigner la grande horloge et la tour. Le carillon de &quot;Big Ben&quot; sert de sonal à certains journaux télévisés et radiophoniques.</span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "Big Ben était à l'origine le surnom donné à la grande cloche de la tour de la \"Houses of " \
+                          "Parliament\" coulée en 1856, surnom hérité du \"Chief Commissionner of Works\" de " \
+                          "l'époque, Sir Benjamin Hall. De nos jours, ce nom est utilisé pour désigner la grande " \
+                          "horloge et la tour. Le carillon de \"Big Ben\" sert de sonal à certains journaux " \
+                          "télévisés et radiophoniques."
+
+    def test_corner_string_7(self):
+        # 'rapper', en > fr
+        api_raw = 'rappeur<span class="feminine">(-euse)</span> <span class="genus"><acronym title="masculine">m</acronym></span> <span class="genus">(<acronym title="feminine">f</acronym>)</span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "rappeur(-euse)"
+
+    def test_corner_string_8(self):
+        # 'cut', en > fr
+        # TODO: Tough one, multiple "type" span in one entry
+        api_raw = '<span class="idiom_proverb">to <strong class="tilde">cut</strong> a fine figure</span>, <span class="idiom_proverb">to  <strong class="tilde">cut</strong> quite a figure</span>, <span class="idiom_proverb">[<span class="or"><acronym title="or">or</acronym></span> <span class="region"><acronym title="British English" class="Brit">Brit</acronym></span> dash]</span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "to cut a fine figure, to cut quite a figure"
+
+    def test_corner_string_9(self):
+        # 'undertake', en > fr
+        api_raw = '<span class="example">to <strong class="tilde">undertake</strong> to</span> <span class="modus">+<acronym title="infinitive">infin</acronym></span>'
+        te = TranslationEntry(api_raw)
+        assert te.text == "to undertake to"

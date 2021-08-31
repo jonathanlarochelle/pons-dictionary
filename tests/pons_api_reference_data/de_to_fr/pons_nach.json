@@ -1,0 +1,304 @@
+[
+    {
+        "lang": "de",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nach",
+                        "headword_full": "nach    <span class=\"phonetics\">[na\u02d0x]</span> <span class=\"wordclass\"><acronym title=\"preposition\">PREP</acronym></span> <span class=\"object-case\">+Dat</span>",
+                        "wordclass": "preposition",
+                        "arabs": [
+                            {
+                                "header": "1. nach <span class=\"sense\">(zur Angabe der Richtung)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nach</strong>",
+                                        "target": "\u00e0"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Nizza/Stuttgart fahren</span>",
+                                        "target": "aller  <span class=\"target\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> se rendre]</span>  \u00e0 Nice/Stuttgart"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> M\u00fcnchen abreisen</span>",
+                                        "target": "partir pour Munich"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Frankreich/Deutschland</span>",
+                                        "target": "en France/Allemagne"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> D\u00e4nemark</span>",
+                                        "target": "au Danemark"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Norden</span>",
+                                        "target": "vers le nord"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">der Zug <strong class=\"tilde\">nach</strong> Bordeaux</span>",
+                                        "target": "le train pour  <span class=\"target\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> \u00e0 destination de]</span>  Bordeaux"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">auf dem Weg <strong class=\"tilde\">nach</strong> Marseille</span>",
+                                        "target": "sur la route de Marseille"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Hause gehen</span>",
+                                        "target": "aller \u00e0 la maison"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. nach <span class=\"sense\">(zur Angabe einer Stelle)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nach</strong>",
+                                        "target": "apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">die Kirche kommt <strong class=\"tilde\">nach</strong> der Post</span>",
+                                        "target": "il y a le bureau de poste, puis l&#39;\u00e9glise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. nach <span class=\"sense\">(zeitlich)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nach</strong>",
+                                        "target": "apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">f\u00fcnf [Minuten] <strong class=\"tilde\">nach</strong> drei</span>",
+                                        "target": "trois heures cinq [minutes]"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> drei Tagen/zwei Wochen</span>",
+                                        "target": "au bout de trois jours/deux semaines"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> drei Tagen/zwei Wochen</span>",
+                                        "target": "trois jours/deux semaines plus tard"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Empfang der Ware</span>",
+                                        "target": "\u00e0 r\u00e9ception de la marchandise"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "4. nach <span class=\"sense\">(entsprechend)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nach</strong>",
+                                        "target": "selon"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">nach</strong>",
+                                        "target": "d&#39;apr\u00e8s"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ihrem Aussehen/Auftreten <strong class=\"tilde\">nach</strong></span>",
+                                        "target": "\u00e0 en juger par son aspect/sa mani\u00e8re d&#39;\u00eatre"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">seinem Akzent <strong class=\"tilde\">nach</strong> ist er Schweizer</span>",
+                                        "target": "son accent laisse supposer qu&#39;il est Suisse"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">ihrem Wesen <strong class=\"tilde\">nach</strong> ist sie eher ruhig</span>",
+                                        "target": "elle est plut\u00f4t d&#39;un naturel calme"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> meiner Meinung</span>, <span class=\"example\">meiner Meinung  <strong class=\"tilde\">nach</strong></span>",
+                                        "target": "\u00e0 mon avis"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dieser Film entstand <strong class=\"tilde\">nach</strong> dem gleichnamigen Roman</span>",
+                                        "target": "ce film est tir\u00e9 du roman du m\u00eame nom"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">den Tee <strong class=\"tilde\">nach</strong> Belieben s\u00fc\u00dfen</span>",
+                                        "target": "sucrer le th\u00e9 selon le go\u00fbt de chacun"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> dem, was in den Zeitungen steht</span>",
+                                        "target": "d&#39;apr\u00e8s les journaux"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> Expertenauffassung</span>",
+                                        "target": "selon l&#39;avis des experts"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dieser Katalog ist <strong class=\"tilde\">nach</strong> Autoren geordnet</span>",
+                                        "target": "ce catalogue est class\u00e9 par auteurs"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">dem Sinn <strong class=\"tilde\">nach</strong></span>",
+                                        "target": "en substance"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">nach</strong> den Vorschriften handeln</span>",
+                                        "target": "agir conform\u00e9ment au r\u00e8glement"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">das sind <strong class=\"tilde\">nach</strong> schweizerischem Geld tausend Franken</span>",
+                                        "target": "cela fait mille francs [en argent] suisses"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">die Uhr <strong class=\"tilde\">nach</strong> dem Radio stellen</span>",
+                                        "target": "r\u00e9gler sa montre sur l&#39;heure de la radio"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">er wurde <strong class=\"tilde\">nach</strong> seinem Gro\u00dfvater genannt</span>",
+                                        "target": "il porte le pr\u00e9nom de son grand-p\u00e8re"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "5. nach <span class=\"sense\">(zur Angabe der Reihenfolge)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">ich bin <strong class=\"tilde\">nach</strong> Ihnen dran!</span>",
+                                        "target": "je suis  <span class=\"target\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> viens]</span>  apr\u00e8s vous !"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "nach",
+                        "headword_full": "nach    <span class=\"phonetics\">[na\u02d0x]</span> <span class=\"wordclass\"><acronym title=\"adverb\">ADV</acronym></span>",
+                        "wordclass": "adverb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\">mir <strong class=\"tilde\">nach!</strong></span>",
+                                        "target": "suivez-moi !"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">haltet den Dieb, schnell, ihm <strong class=\"tilde\">nach!</strong></span>",
+                                        "target": "au voleur, vite, poursuivez-le !"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "Phrases:",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">nach</strong> und <strong class=\"tilde\">nach</strong></span>",
+                                        "target": "peu \u00e0 peu"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">nach</strong> und <strong class=\"tilde\">nach</strong></span>",
+                                        "target": "petit \u00e0 petit"
+                                    },
+                                    {
+                                        "source": "<span class=\"idiom_proverb\"><strong class=\"tilde\">nach</strong> wie vor</span>",
+                                        "target": "toujours"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">unsere Abmachung gilt <strong class=\"tilde\">nach</strong> wie vor</span>",
+                                        "target": "notre accord reste  <span class=\"target\">[<span class=\"or\"><acronym title=\"ou\">ou</acronym></span> est toujours]</span>  valable"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "nach hinten",
+                        "headword_full": "nach hinten   ",
+                        "arabs": [
+                            {
+                                "header": "nach hinten <span class=\"indirect_reference_OTHER\">\u2192 r\u00fcckw\u00e4rts</span>",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">nach hinten</strong>",
+                                        "target": "en arri\u00e8re / retrait"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Bild-nach-oben-Taste",
+                        "headword_full": "Bild-nach-oben-Taste    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Bild-nach-oben-Taste</strong>",
+                                        "target": "touche  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  de d\u00e9filement de page-\u00e9cran vers le haut"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "Bild-nach-unten-Taste",
+                        "headword_full": "Bild-nach-unten-Taste    <span class=\"wordclass\"><acronym title=\"noun\">N</acronym></span> <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span> <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>",
+                        "wordclass": "noun",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">Bild-nach-unten-Taste</strong>",
+                                        "target": "touche  <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>  de d\u00e9filement de page-\u00e9cran vers le bas"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": true,
+                "roms": [
+                    {
+                        "headword": "nach hinten",
+                        "headword_full": "nach hinten   ",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"tilde\">nach hinten</strong>",
+                                        "target": "\u00e0 la renverse"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

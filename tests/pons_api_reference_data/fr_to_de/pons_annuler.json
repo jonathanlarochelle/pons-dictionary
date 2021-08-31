@@ -1,0 +1,120 @@
+[
+    {
+        "lang": "fr",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annuler",
+                        "headword_full": "annuler    <span class=\"phonetics\">[anyle]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"transitive verb\">trans</acronym></span>",
+                        "wordclass": "transitive verb",
+                        "arabs": [
+                            {
+                                "header": "1. annuler <span class=\"sense\">(supprimer)</span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong>",
+                                        "target": "r\u00fcckg\u00e4ngig machen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(dette)</span>",
+                                        "target": "bereinigen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(dette)</span>",
+                                        "target": "stornieren"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(voyage, vol, r\u00e9servation, commande)</span>",
+                                        "target": "canceln"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(facture)</span>",
+                                        "target": "stornieren"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(rendez-vous)</span>",
+                                        "target": "absagen"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "2. annuler <span class=\"topic\"><acronym title=\"law\">LAW</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(jugement, sentence arbitrale)</span>",
+                                        "target": "aufheben"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(mariage)</span>",
+                                        "target": "annullieren"
+                                    }
+                                ]
+                            },
+                            {
+                                "header": "3. annuler <span class=\"topic\"><acronym title=\"computing\">COMPUT</acronym></span>:",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong>",
+                                        "target": "abbrechen"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong>",
+                                        "target": "canceln"
+                                    },
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong> <span class=\"colloc\">(t\u00e2che d&#39;impression)</span>",
+                                        "target": "l\u00f6schen"
+                                    },
+                                    {
+                                        "source": "<span class=\"example\">\u00eatre annul\u00e9(e)</span> <span class=\"subject\">connexion, traitement:</span>",
+                                        "target": "abbrechen"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "headword": "annuler",
+                        "headword_full": "annuler    <span class=\"phonetics\">[anyle]</span> <span class=\"wordclass\"><acronym title=\"verb\">VB</acronym></span> <span class=\"verbclass\"><acronym title=\"reflexive verb\">refl</acronym></span>",
+                        "wordclass": "pronomial verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<span class=\"example\"><strong class=\"tilde\">s&#39;annuler</strong></span>",
+                                        "target": "sich [gegenseitig] aufheben"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "annuler",
+                        "headword_full": "annuler   ",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">annuler</strong>",
+                                        "target": "stornieren <span class=\"info\">Bestellung</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
