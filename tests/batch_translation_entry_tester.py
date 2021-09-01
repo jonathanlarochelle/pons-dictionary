@@ -3,9 +3,9 @@
 # import built-in module
 import os
 import json
+import warnings
 
 # import third-party modules
-import pytest
 
 # import your own module
 from pons_dictionary.translation_entry import TranslationEntry
@@ -36,7 +36,10 @@ if __name__ == "__main__":
                 to the testing set.
     """
 
-    json_data_folder = 'pons_api_reference_data/en_to_fr'
+    json_data_folder = 'pons_api_reference_data/dede'
+    see_all_entries = True
+
+    warnings.filterwarnings("error")
 
     for file in os.listdir(json_data_folder):
         full_file_path = json_data_folder + "/" + file
@@ -47,14 +50,31 @@ if __name__ == "__main__":
             target_strings = list(gen_dict_extract('target', json_data[0]))
 
             for source, target in zip(source_strings, target_strings):
-                te_source = TranslationEntry(source)
-                te_target = TranslationEntry(target)
-                print("====================================")
-                print("FILE: " + full_file_path)
-                print("\tSOURCE")
-                print("\traw string: " + source)
-                print("\tTranslationEntry: " + str(te_source))
-                print("\tTARGET")
-                print("\traw string: " + target)
-                print("\tTranslationEntry: " + str(te_target))
-                input("")
+                te_source = None
+                te_target = None
+                try:
+                    te_source = TranslationEntry(source, False, False, True)
+                    te_target = TranslationEntry(target, False, False, True)
+                except UserWarning as w:
+                    print("====================================")
+                    print("FILE: " + full_file_path)
+                    print("WARNING: " + str(w))
+                    print("\tSOURCE")
+                    print("\traw string: " + source)
+                    print("\tTranslationEntry: " + str(te_source))
+                    print("\tTARGET")
+                    print("\traw string: " + target)
+                    print("\tTranslationEntry: " + str(te_target))
+                    input("")
+                else:
+                    if see_all_entries:
+                        print("====================================")
+                        print("FILE: " + full_file_path)
+                        print("\tSOURCE")
+                        print("\traw string: " + source)
+                        print("\tTranslationEntry: " + str(te_source))
+                        print("\tTARGET")
+                        print("\traw string: " + target)
+                        print("\tTranslationEntry: " + str(te_target))
+                        input("")
+

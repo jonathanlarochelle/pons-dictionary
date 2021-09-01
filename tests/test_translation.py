@@ -20,7 +20,7 @@ class TestTranslation:
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
         assert t.raw == api_raw
 
     def test_opendict_true(self):
@@ -29,7 +29,7 @@ class TestTranslation:
                    "source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
         assert t.opendict is True
 
     def test_opendict_false(self):
@@ -38,7 +38,7 @@ class TestTranslation:
                    "source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
         assert t.opendict is False
 
     def test_opendict_none(self):
@@ -46,7 +46,7 @@ class TestTranslation:
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
         assert t.opendict is None
 
     def test_source(self, mocker):
@@ -55,9 +55,9 @@ class TestTranslation:
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
 
-        spy.assert_any_call(t.source, api_raw['source'])
+        spy.assert_any_call(t.source, api_raw['source'], False, False, False)
         assert isinstance(t.source, pons_dictionary.translation.TranslationEntry)
 
     def test_target(self, mocker):
@@ -66,7 +66,7 @@ class TestTranslation:
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
-        t = Translation(api_raw)
+        t = Translation(api_raw, False, False, False)
 
-        spy.assert_any_call(t.target, api_raw['target'])
+        spy.assert_any_call(t.target, api_raw['target'], False, False, False)
         assert isinstance(t.target, pons_dictionary.translation.TranslationEntry)
