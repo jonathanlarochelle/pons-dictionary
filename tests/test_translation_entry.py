@@ -9,7 +9,7 @@ import pytest
 from pons_dictionary.translation_entry import TranslationEntry
 
 
-class TestTranslationEntry:
+class TestTranslationEntryBS4:
     """
     Tests for TranslationEntry.
 

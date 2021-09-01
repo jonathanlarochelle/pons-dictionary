@@ -7,6 +7,7 @@ import warnings
 import html
 
 # import third-party modules
+import bs4
 
 # import your own module
 
@@ -61,116 +62,84 @@ class TranslationEntry:
         self._topic = None
 
         # PARSING of API string
-        api_str = html.unescape(api_str)
-        # End-of-string parameters
+        self._soup = bs4.BeautifulSoup(html.unescape(api_str), "html.parser")
 
-        # Parse category
-        category_pattern = re.compile(r'<span class="category">(.*?)</span>', re.UNICODE)  # Group 1 is category
-        self._category = self._parse_from_pattern(category_pattern, api_str)
-        api_str = self._strip_string_from_pattern(category_pattern, api_str)
-
-        # Parse colloc
-        colloc_pattern = re.compile(r'<span class="colloc">\((.*?)\)</span>', re.UNICODE)  # Group 1 is colloc
-        self._colloc = self._parse_from_pattern(colloc_pattern, api_str)
-        api_str = self._strip_string_from_pattern(colloc_pattern, api_str)
-
-        # Parse collocator
-        collocator_pattern = re.compile(r'<span class="collocator">(.*?)</span>', re.UNICODE)  # Group 1 is collocator
-        self._collocator = self._parse_from_pattern(collocator_pattern, api_str)
-        api_str = self._strip_string_from_pattern(collocator_pattern, api_str)
-
-        # Parse modus
-        modus_pattern = re.compile(r'<span class="modus">\+(.*?)</span>', re.UNICODE)  # Group 1 is modus
-        self._modus = self._parse_from_pattern(modus_pattern, api_str)
-        api_str = self._strip_string_from_pattern(modus_pattern, api_str)
-
-        # Parse region
-        region_pattern = re.compile(r'<span class="region">(.*?)</span>', re.UNICODE)  # Group 1 is region
-        self._region = self._parse_from_pattern(region_pattern, api_str)
-        api_str = self._strip_string_from_pattern(region_pattern, api_str)
-
-        # Parse rhetoric
-        rhetoric_pattern = re.compile(r'<span class="rhetoric">(.*?)</span>', re.UNICODE)  # Group 1 is rhetoric
-        self._rhetoric = self._parse_from_pattern(rhetoric_pattern, api_str)
-        api_str = self._strip_string_from_pattern(rhetoric_pattern, api_str)
-
-        # Parse sense
-        sense_pattern = re.compile(r'<span class="sense">\((.*?)\)</span>', re.UNICODE)  # Group 1 is sense
-        self._sense = self._parse_from_pattern(sense_pattern, api_str)
-        api_str = self._strip_string_from_pattern(sense_pattern, api_str)
-
-        # Parse style
-        style_pattern = re.compile(r'<span class="style">(.*?)</span>', re.UNICODE)  # Group 1 is style
-        self._style = self._parse_from_pattern(style_pattern, api_str)
-        api_str = self._strip_string_from_pattern(style_pattern, api_str)
-
-        # Parse subject
-        subject_pattern = re.compile(r'<span class="subject">(.*?):</span>', re.UNICODE)  # Group 1 is subject
-        self._subject = self._parse_from_pattern(subject_pattern, api_str)
-        api_str = self._strip_string_from_pattern(subject_pattern, api_str)
-
-        # Parse topic
-        topic_pattern = re.compile(r'<span class="topic">(.*?)</span>', re.UNICODE)  # Group 1 is topic
-        self._topic = self._parse_from_pattern(topic_pattern, api_str)
-        api_str = self._strip_string_from_pattern(topic_pattern, api_str)
+        self._category = self._get_attribute_from_soup(tag="span", tag_class="category",
+                                                       use_acronyms=False, delete_tag=True)
+        self._colloc = self._get_attribute_from_soup(tag="span", tag_class="colloc",
+                                                     use_acronyms=False, delete_tag=True)
+        self._collocator = self._get_attribute_from_soup(tag="span", tag_class="collocator",
+                                                         use_acronyms=False, delete_tag=True)
+        self._modus = self._get_attribute_from_soup(tag="span", tag_class="modus",
+                                                    use_acronyms=False, delete_tag=True)
+        self._region = self._get_attribute_from_soup(tag="span", tag_class="region",
+                                                     use_acronyms=False, delete_tag=True)
+        self._rhetoric = self._get_attribute_from_soup(tag="span", tag_class="rhetoric",
+                                                       use_acronyms=False, delete_tag=True)
+        self._sense = self._get_attribute_from_soup(tag="span", tag_class="sense",
+                                                    use_acronyms=False, delete_tag=True)
+        self._style = self._get_attribute_from_soup(tag="span", tag_class="style",
+                                                    use_acronyms=False, delete_tag=True)
+        self._subject = self._get_attribute_from_soup(tag="span", tag_class="subject",
+                                                      use_acronyms=False, delete_tag=True)
+        self._topic = self._get_attribute_from_soup(tag="span", tag_class="topic",
+                                                    use_acronyms=False, delete_tag=True)
 
         # In-string parameters
         # Parse type (anything but headword)
-        type_pattern = re.compile(r'<span class="(.*?)">(.*)</span>',
-                                  re.UNICODE)  # Group 1 is type, Group 2 is rest of string
-        type_match = type_pattern.match(api_str)
-        if type_match is not None:
-            self._type = type_match.group(1)
-            api_str = type_match.group(2)
+        valid_types = ["headword", "example", "idiom_proverb", "complement", "explanation"]
+        for el in self._soup.contents:
+            if el.name in ["span", "strong"]:
+                if el["class"][0] in valid_types:
+                    self._type = el["class"][0]
+                    el.unwrap()
 
-        type_headword_pattern = re.compile(r'<strong class="(headword)">(.*)</strong>',
-                                           re.UNICODE)  # Group 1 is type, Group 2 is rest of string
-        type_headword_match = type_headword_pattern.match(api_str)
-        if type_headword_match is not None:
-            self._type = type_headword_match.group(1)
-            api_str = type_headword_match.group(2)
+        # Tags to unwrap
+        tags_to_unwrap = ["tilde", "emphasize", "feminine", "or"]
+        for el in self._soup.contents:
+            if el.name in ["span", "strong"]:
+                if el["class"][0] in tags_to_unwrap:
+                    el.unwrap()
 
-        # Eliminate remaining tags
-        # - <strong class="tilde">[A]</strong> -> strip tags, keep [A]
-        tilde_pattern = re.compile(r'<strong class="tilde">(.*?)</strong>', re.UNICODE)
-        for match in tilde_pattern.finditer(api_str):
-            api_str = api_str.replace(match.group(0), match.group(1))
+        # Tags to remove completely
+        span_classes_to_ignore = ["grammar", "case", "number", "object-case", "modus",
+                                  "target", "info", "indirect_reference_OTHER", "or", "genus"]
+        for el in self._soup.contents:
+            if el.name in ["span"]:
+                if el["class"][0] in span_classes_to_ignore:
+                    el.extract()
 
-        # - <span class="emphasize">[A]</span> -> strip tags, keep [A]
-        emphasize_pattern = re.compile(r'<span class="emphasize">(.*?)</span>', re.UNICODE)
-        for match in emphasize_pattern.finditer(api_str):
-            api_str = api_str.replace(match.group(0), match.group(1))
+        # Acronyms
+        acronyms_in_text = False
+        for el in self._soup.contents:
+            if el.name == "acronym":
+                if acronyms_in_text:
+                    el.replace_with(el.contents[0])
+                else:
+                    el.replace_with(el["title"])
 
-        # - <span class="feminine">[A]</span> -> strip tags, keep [A]
-        feminine_pattern = re.compile(r'<span class="feminine">(.*?)</span>', re.UNICODE)
-        for match in feminine_pattern.finditer(api_str):
-            api_str = api_str.replace(match.group(0), match.group(1))
-
-        # - other tags: strip
-        span_classes_to_ignore = ["grammar SUBST", "grammar VERB", "case", "number", "object-case", "modus",
-                                  "target", "info", "indirect_reference_OTHER",
-                                  "or", "genus"]
-        general_pattern = re.compile(r'<span class="(.*?)">(.*?)</span>', re.UNICODE)
-
-        for match in general_pattern.finditer(api_str):
-            if match.group(1) not in span_classes_to_ignore:
-                warnings.warn(f"Unexpected pattern found in API str ({match.group(0)}), removed from API str.",
+        # Unhandled tags?
+        for el in self._soup.contents:
+            if isinstance(el, bs4.Tag):
+                warnings.warn(f"Unexpected pattern found in API str ({str(el)}), removed from API str.",
                               UserWarning)
-            api_str = api_str.replace(match.group(0), '')
+                el.extract()
 
-        # remove square brackets
-        brackets_pattern = re.compile(r'\[.*\]', re.UNICODE)
-        for match in brackets_pattern.finditer(api_str):
-            api_str = api_str.replace(match.group(0), '')
+        self._soup.smooth()
+        remaining_text = str(self._soup)
 
         # Final text string formatting
+        # - remove square brackets
+        brackets_pattern = re.compile(r'\[.*\]', re.UNICODE)
+        for match in brackets_pattern.finditer(remaining_text):
+            remaining_text = remaining_text.replace(match.group(0), '')
         # - Eliminate 2+ spaces
         spaces_pattern = re.compile(r'\s{2,}', re.UNICODE)
-        for match in spaces_pattern.finditer(api_str):
-            api_str = api_str.replace(match.group(0), ' ')
+        for match in spaces_pattern.finditer(remaining_text):
+            remaining_text = remaining_text.replace(match.group(0), ' ')
 
-        # - Replace acronyms with preferred value
-        self._text = self._process_acronym(api_str.strip(', '), use_acronym = False)
+
+        self._text = remaining_text.strip(" :+(,[")
 
     @staticmethod
     def _process_acronym(string: str, use_acronym: bool = False):
@@ -183,24 +152,59 @@ class TranslationEntry:
                 string = string.replace(match.group(0), match.group(1))
         return string
 
-    def _parse_from_pattern(self, pattern: re.Pattern, string: str) -> typing.Union[typing.List[str], str]:
-        """
-        Looks in string for values contained in the group 1 of pattern.
-        If no values found, returns None;
-        If 1 value found, returns the value as a string;
-        If more than 1 values found, returns a list of values as strings.
-        """
-        matches = pattern.finditer(string)
-        values = []
-        for m in matches:
-            values.append(self._process_acronym(m.group(1)))
+    def _get_attribute_from_soup(self, tag: str, tag_class: typing.Union[typing.List[str], str, None],
+                                 use_acronyms: bool, delete_tag: bool):
+        ret_values = []
+        soup = self._soup
 
-        if len(values) == 0:
-            return None
-        elif len(values) == 1:
-            return values[0]
+        if tag_class is not None:
+            tags = soup.find_all(tag, class_=tag_class)
         else:
-            return values
+            tags = soup.find_all(tag)
+
+        for tag in tags:
+            contents = tag.encode_contents().decode("utf-8").strip(" :+)(,[]")
+
+            for acronym in tag.find_all("acronym"):
+                if use_acronyms:
+                    acronym_value = acronym.contents[0]
+                else:
+                    acronym_value = acronym['title']
+
+                contents = contents.replace(str(acronym), acronym_value)
+
+            ret_values.append(contents)
+
+            if delete_tag:
+                tag.extract()
+
+        self._soup = soup
+
+        if len(ret_values) == 0:
+            return None
+        elif len(ret_values) == 1:
+            return ret_values[0]
+        else:
+            return ret_values
+
+    def _parse_from_pattern(self, pattern: re.Pattern, string: str) -> typing.Union[typing.List[str], str]:
+         """
+         Looks in string for values contained in the group 1 of pattern.
+         If no values found, returns None;
+         If 1 value found, returns the value as a string;
+         If more than 1 values found, returns a list of values as strings.
+         """
+         matches = pattern.finditer(string)
+         values = []
+         for m in matches:
+             values.append(self._process_acronym(m.group(1)))
+
+         if len(values) == 0:
+             return None
+         elif len(values) == 1:
+             return values[0]
+         else:
+             return values
 
     @staticmethod
     def _strip_string_from_pattern(pattern: re.Pattern, string: str) -> str:
