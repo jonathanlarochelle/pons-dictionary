@@ -26,7 +26,7 @@ class Arab:
         # Initialize attributes
         self._raw = pons_api_arab
         self._headword = None
-        self._translations = None
+        self._translations = []
         self._type = None
 
         self._abbreviation_of = None
@@ -45,11 +45,8 @@ class Arab:
         # Parsing pons_api_arab dict
 
         # Handle translations
-        translations_list = []
         for translation in pons_api_arab["translations"]:
-            translations_list.append(Translation(translation, acronyms_in_fields, acronyms_in_text, hints_in_text))
-        if len(translations_list) > 0:
-            self._translations = translations_list
+            self._translations.append(Translation(translation, acronyms_in_fields, acronyms_in_text, hints_in_text))
 
         # Parse "header" string
         soup = bs4.BeautifulSoup(html.unescape(pons_api_arab["header"]), "html.parser")

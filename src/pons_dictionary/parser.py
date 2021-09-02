@@ -2,6 +2,7 @@
 
 # import built-in module
 import typing
+import html
 
 # import third-party modules
 
@@ -15,7 +16,7 @@ def extract_attribute(soup: bs4.BeautifulSoup, tag_class: str,
     tags = soup.find_all(class_=tag_class)
 
     for tag in tags:
-        contents = tag.encode_contents().decode("utf-8").strip(" :+)(,[]→")
+        contents = html.unescape(tag.encode_contents().decode("utf-8"))
 
         for acronym in tag.find_all("acronym"):
             if use_acronyms:
@@ -25,7 +26,7 @@ def extract_attribute(soup: bs4.BeautifulSoup, tag_class: str,
 
             contents = contents.replace(str(acronym), acronym_value)
 
-        ret_values.append(contents)
+        ret_values.append(contents.strip(" :+)(,[]→<>"))
         tag.extract()
 
     if len(ret_values) == 0:

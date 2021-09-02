@@ -82,7 +82,7 @@ class TestArab:
                    "translations": []
                    }
         a = Arab(api_raw, acronyms_in_fields=False, acronyms_in_text=False, hints_in_text=False)
-        assert a.translations is None
+        assert a.translations == []
 
     def test_abbreviation_of(self):
         # 'ad', en > fr
@@ -263,7 +263,7 @@ class TestArab:
     def test_empty_api_dict(self):
         api_raw = {}
         with pytest.raises(KeyError):
-            a = Arab(api_raw, acronyms_in_fields=False, acronyms_in_text=False, hints_in_text=False)
+            _ = Arab(api_raw, acronyms_in_fields=False, acronyms_in_text=False, hints_in_text=False)
 
     def test_warning_for_unhandled_tags(self):
         # invented string with unhandled tag
@@ -289,7 +289,3 @@ class TestArab:
             assert a.num == 1
             assert a.style is None
             assert a.sense == 'besonders'
-
-    # Test for specific strings, essentially problematic corner cases
-    def test_corner_string_1(self):
-        pass
