@@ -9,7 +9,7 @@ import pytest
 from pons_dictionary.translation_entry import TranslationEntry
 
 
-class TestTranslationEntryBS4:
+class TestTranslationEntry:
     """
     Tests for TranslationEntry.
 
@@ -206,6 +206,25 @@ class TestTranslationEntryBS4:
         assert te.text == 'abbrechen'
         assert te.topic == 'computing'
         assert te.subject == 'Verbindung, Verarbeitung'
+
+    def test_empty_api_string(self):
+        api_raw = ''
+        te = TranslationEntry(api_raw, acronyms_in_fields=False, acronyms_in_text=False, hints_in_text=False)
+        assert te.raw == ''
+        assert te.text == ''
+        assert te.type is None
+        assert te.category is None
+        assert te.colloc is None
+        assert te.collocator is None
+        assert te.info is None
+        assert te.modus is None
+        assert te.region is None
+        assert te.restriction is None
+        assert te.rhetoric is None
+        assert te.sense is None
+        assert te.style is None
+        assert te.subject is None
+        assert te.topic is None
 
     def test_warning_for_unhandled_tags(self):
         # invented string with unhandled tag
