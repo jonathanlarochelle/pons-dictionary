@@ -210,8 +210,8 @@ class Translation:
     A Translation is comprised of a source (original expression) and a target (translated expression).
     """
 
-    def __init__(self, pons_api_translation_dict: dict, acronyms_in_fields: bool, acronyms_in_text: bool,
-                 hints_in_text: bool):
+    def __init__(self, pons_api_translation_dict: dict, acronyms_in_fields: bool = False, acronyms_in_text: bool = False,
+                 hints_in_text: bool = False):
         # Initialize attributes
         self._raw = pons_api_translation_dict
         self._opendict = None
@@ -573,8 +573,8 @@ class Entry:
     [...]
     """
 
-    def __init__(self, pons_api_entry: dict, acronyms_in_fields: bool, acronyms_in_text: bool,
-                 hints_in_text: bool):
+    def __init__(self, pons_api_entry: dict, acronyms_in_fields: bool = False, acronyms_in_text: bool = False,
+                 hints_in_text: bool = False):
         # Initialize attributes
         self._opendict = None
         self._roms = []
@@ -602,8 +602,8 @@ class EntryWithSecondaryEntries:
     [...]
     """
 
-    def __init__(self, pons_api_entry: dict, acronyms_in_fields: bool, acronyms_in_text: bool,
-                 hints_in_text: bool):
+    def __init__(self, pons_api_entry: dict, acronyms_in_fields: bool = False, acronyms_in_text: bool = False,
+                 hints_in_text: bool = False):
         self._primary_entry = Entry(pons_api_entry["primary_entry"], acronyms_in_fields, acronyms_in_text, hints_in_text)
         self._secondary_entries = []
         for secondary_entry in pons_api_entry["secondary_entries"]:
