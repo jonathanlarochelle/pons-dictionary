@@ -624,18 +624,6 @@ class TestRom:
         assert r.headword == "bière"
 
 
-# -*- coding: utf-8 -*-
-
-# import built-in module
-
-# import third-party modules
-import pons_dictionary.arab
-import pytest
-
-# import your own module
-from pons_dictionary.arab import Arab
-
-
 class TestArab:
     """
     Tests for Arab.
@@ -678,7 +666,7 @@ class TestArab:
         assert a.type == 'phrases'
 
     def test_translations(self, mocker):
-        spy = mocker.spy(pons_dictionary.arab.Translation, "__init__")
+        spy = mocker.spy(pons_dictionary.entry.Translation, "__init__")
         # 'live', en > fr
         api_raw = {
             "header": "1. live <span class=\"sense\">(living)</span>:",
@@ -698,8 +686,8 @@ class TestArab:
         spy.assert_any_call(a.translations[0], api_raw["translations"][0], False, False, False)
         spy.assert_any_call(a.translations[1], api_raw["translations"][1], False, False, False)
         assert len(a.translations) == 2
-        assert isinstance(a.translations[0], pons_dictionary.arab.Translation)
-        assert isinstance(a.translations[1], pons_dictionary.arab.Translation)
+        assert isinstance(a.translations[0], pons_dictionary.entry.Translation)
+        assert isinstance(a.translations[1], pons_dictionary.entry.Translation)
 
     def test_translations_none(self):
         # Never encountered a case without translations so far, but it is useful to consider.
@@ -917,18 +905,6 @@ class TestArab:
             assert a.sense == 'besonders'
 
 
-# -*- coding: utf-8 -*-
-
-# import built-in module
-
-# import third-party modules
-import pytest
-
-# import your own module
-import pons_dictionary.translation
-from pons_dictionary.translation import Translation
-
-
 class TestTranslation:
     """
     Tests for Translation.
@@ -960,7 +936,7 @@ class TestTranslation:
         assert t.opendict is None
 
     def test_source(self, mocker):
-        spy = mocker.spy(pons_dictionary.translation.TranslationEntry, "__init__")
+        spy = mocker.spy(pons_dictionary.entry.TranslationEntry, "__init__")
         # 'ad', en > fr
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
@@ -968,10 +944,10 @@ class TestTranslation:
         t = Translation(api_raw, False, False, False)
 
         spy.assert_any_call(t.source, api_raw['source'], False, False, False)
-        assert isinstance(t.source, pons_dictionary.translation.TranslationEntry)
+        assert isinstance(t.source, pons_dictionary.entry.TranslationEntry)
 
     def test_target(self, mocker):
-        spy = mocker.spy(pons_dictionary.translation.TranslationEntry, "__init__")
+        spy = mocker.spy(pons_dictionary.entry.TranslationEntry, "__init__")
         # 'ad', en > fr
         api_raw = {"source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
@@ -979,18 +955,7 @@ class TestTranslation:
         t = Translation(api_raw, False, False, False)
 
         spy.assert_any_call(t.target, api_raw['target'], False, False, False)
-        assert isinstance(t.target, pons_dictionary.translation.TranslationEntry)
-
-
-# -*- coding: utf-8 -*-
-
-# import built-in module
-
-# import third-party modules
-import pytest
-
-# import your own module
-from pons_dictionary.translation_entry import TranslationEntry
+        assert isinstance(t.target, pons_dictionary.entry.TranslationEntry)
 
 
 class TestTranslationEntry:
