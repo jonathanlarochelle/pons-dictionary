@@ -14,3 +14,7 @@ except PackageNotFoundError:  # pragma: no cover
     __version__ = "unknown"
 finally:
     del version, PackageNotFoundError
+
+from .pons_dictionary import PonsDictionary
+
+__all__ = ['PonsDictionary']
