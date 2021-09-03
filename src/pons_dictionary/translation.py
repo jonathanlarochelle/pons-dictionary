@@ -25,9 +25,8 @@ class Translation:
         self._target = None
 
         # Parsing pons_translation_obj
-        bool_map = {"true": True, "false": False}
         if "opendict" in pons_api_translation_dict:
-            self._opendict = bool_map[pons_api_translation_dict['opendict']]
+            self._opendict = pons_api_translation_dict['opendict']
 
         if "source" in pons_api_translation_dict:
             self._source = TranslationEntry(pons_api_translation_dict['source'], acronyms_in_fields, acronyms_in_text,

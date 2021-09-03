@@ -25,21 +25,12 @@ class TestTranslation:
 
     def test_opendict_true(self):
         # 'ad', en > fr (adapted)
-        api_raw = {"opendict": "true",
+        api_raw = {"opendict": True,
                    "source": "<strong class=\"headword\">advertisement</strong>",
                    "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
                    }
         t = Translation(api_raw, False, False, False)
         assert t.opendict is True
-
-    def test_opendict_false(self):
-        # 'ad', en > fr (adapted)
-        api_raw = {"opendict": "false",
-                   "source": "<strong class=\"headword\">advertisement</strong>",
-                   "target": "publicit\u00e9 <span class=\"genus\"><acronym title=\"feminine\">f</acronym></span>"
-                   }
-        t = Translation(api_raw, False, False, False)
-        assert t.opendict is False
 
     def test_opendict_none(self):
         # 'ad', en > fr
