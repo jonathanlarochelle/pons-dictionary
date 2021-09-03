@@ -16,16 +16,19 @@ def extract_attribute(soup: bs4.BeautifulSoup, tag_class: str,
     tags = soup.find_all(class_=tag_class)
 
     for tag in tags:
-        contents = html.unescape(tag.encode_contents().decode("utf-8"))
-
+        # Parse acronyms
         for acronym in tag.find_all("acronym"):
             if use_acronyms:
                 acronym_value = acronym.contents[0]
             else:
                 acronym_value = acronym['title']
+            acronym.replace_with(acronym_value)
+        # Unwrap all other tags
+        for el in tag.contents:
+            if isinstance(el, bs4.Tag):
+                el.unwrap()
 
-            contents = contents.replace(str(acronym), acronym_value)
-
+        contents = html.unescape(tag.encode_contents().decode("utf-8"))
         ret_values.append(contents.strip(" :+)(,[]→<>"))
         tag.extract()
 

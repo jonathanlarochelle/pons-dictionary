@@ -36,9 +36,11 @@ class Rom:
         self._headword_attributes = None
         self._info = None
         self._modus = None
+        self._number = None
         self._object_case = None
         self._phonetics = None
         self._region = None
+        self._sense = None
         self._spelling_source = None
         self._style = None
         self._topic = None
@@ -49,9 +51,6 @@ class Rom:
         # Handle arabs
         for arab in pons_api_rom["arabs"]:
             self._arabs.append(Arab(arab, acronyms_in_fields, acronyms_in_text, hints_in_text))
-
-        # Handle headword
-        self._headword = pons_api_rom["headword"]
 
         # Parse "headword_full" string
         soup = bs4.BeautifulSoup(pons_api_rom["headword_full"], "html.parser")
@@ -77,9 +76,11 @@ class Rom:
         soup, self._flexion = parser.extract_attribute(soup, tag_class="flexion", use_acronyms=acronyms_in_fields)
         soup, self._genus = parser.extract_attribute(soup, tag_class="genus", use_acronyms=acronyms_in_fields)
         soup, self._modus = parser.extract_attribute(soup, tag_class="modus", use_acronyms=acronyms_in_fields)
+        soup, self._number = parser.extract_attribute(soup, tag_class="number", use_acronyms=acronyms_in_fields)
         soup, self._object_case = parser.extract_attribute(soup, tag_class="object-case", use_acronyms=acronyms_in_fields)
         soup, self._phonetics = parser.extract_attribute(soup, tag_class="phonetics", use_acronyms=acronyms_in_fields)
         soup, self._region = parser.extract_attribute(soup, tag_class="region", use_acronyms=acronyms_in_fields)
+        soup, self._sense = parser.extract_attribute(soup, tag_class="sense", use_acronyms=acronyms_in_fields)
         soup, self._style = parser.extract_attribute(soup, tag_class="style", use_acronyms=acronyms_in_fields)
         soup, self._topic = parser.extract_attribute(soup, tag_class="topic", use_acronyms=acronyms_in_fields)
         soup, self._verbclass = parser.extract_attribute(soup, tag_class="verbclass", use_acronyms=acronyms_in_fields)
@@ -88,11 +89,27 @@ class Rom:
 
         soup, self._info = parser.extract_attribute(soup, tag_class="info", use_acronyms=acronyms_in_fields)
 
+        # Tags to unwrap or extract
+        tag_classes_to_unwrap = ["feminine"]
+        tags_to_extract = ["sup"]
+        for el in soup.contents:
+            if isinstance(el, bs4.Tag):
+                if el.has_attr("class"):
+                    if el["class"][0] in tag_classes_to_unwrap:
+                        el.unwrap()
+                if el.name in tags_to_extract:
+                    el.extract()
+
         # Unhandled tags?
         for el in soup.contents:
             if isinstance(el, bs4.Tag):
                 warnings.warn(f"Unexpected pattern found in API str ({str(el)}), removed from API str.",
                               UserWarning)
+                el.extract()
+
+        soup.smooth()
+        remaining_text = str(soup).strip(" :+,*")
+        self._headword = remaining_text
 
     @property
     def raw(self) -> dict:
@@ -139,6 +156,10 @@ class Rom:
         return self._modus
 
     @property
+    def number(self) -> str:
+        return self._number
+
+    @property
     def object_case(self) -> str:
         return self._object_case
 
@@ -149,6 +170,10 @@ class Rom:
     @property
     def region(self) -> str:
         return self._region
+
+    @property
+    def sense(self) -> str:
+        return self._sense
 
     @property
     def spelling_source(self) -> str:
