@@ -8,7 +8,7 @@ import warnings
 # import third-party modules
 
 # import your own module
-from pons_dictionary.arab import Arab
+from pons_dictionary.entry import Arab
 
 if __name__ == "__main__":
     """

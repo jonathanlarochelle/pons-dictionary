@@ -8,7 +8,7 @@ import warnings
 # import third-party modules
 
 # import your own module
-from pons_dictionary.rom import Rom
+from pons_dictionary.entry import Rom
 
 if __name__ == "__main__":
     """

@@ -8,7 +8,7 @@ import warnings
 # import third-party modules
 
 # import your own module
-from pons_dictionary.translation_entry import TranslationEntry
+from pons_dictionary.entry import TranslationEntry
 
 def gen_dict_extract(key, var):
     """
