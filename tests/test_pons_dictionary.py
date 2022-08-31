@@ -11,7 +11,7 @@ import responses
 # import your own module
 import pons_dictionary.pons_dictionary
 from pons_dictionary.pons_dictionary import PonsDictionary
-from pons_dictionary.exceptions_warnings import BadDictionaryError, PonsApiRequestError
+from pons_dictionary.exceptions_warnings import *
 from pons_dictionary.entry import Entry
 
 
@@ -24,16 +24,16 @@ class TestPonsDictionary:
             return json.load(f)
 
     def test_bad_dictionary(self):
-        with pytest.raises(BadDictionaryError):
-            pd = PonsDictionary(from_language="fr",
-                                to_language="bad",
-                                api_key="SECRET")
+        with pytest.raises(UnsupportedDictionaryError):
+            _ = PonsDictionary("SECRET", "bad")
+
+    def test_good_dictionary(self):
+        pd = PonsDictionary("SECRET", "defr")
+        assert pd.dictionary == "defr"
 
     def test_untested_dictionary(self):
         with pytest.warns(UserWarning):
-            pd = PonsDictionary(from_language="fr",
-                                to_language="it",
-                                api_key="SECRET")
+            _ = PonsDictionary("SECRET", "deit")
 
     @responses.activate
     def test_request_payload(self, mock_json_content):
@@ -54,9 +54,8 @@ class TestPonsDictionary:
                       headers={"X-Secret": "SECRET"},
                       json=mock_json_content, status=200)
 
-        pd = PonsDictionary(from_language="de",
-                            to_language="fr",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr", from_language="de", fuzzy_matching=False, references=True,
+                            output_language="en")
         _ = pd.search("Apfel")
 
     @responses.activate
@@ -64,9 +63,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=403)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
 
         with pytest.raises(PonsApiRequestError):
             _ = pd.search("Apfel")
@@ -76,9 +73,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json=mock_json_content, status=200)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
         res = pd.search("Apfel")
 
         assert isinstance(res, list)
@@ -90,9 +85,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=204)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
         res = pd.search("Armory")
 
         assert isinstance(res, list)
@@ -103,9 +96,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=404)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
 
         with pytest.raises(PonsApiRequestError):
             _ = pd.search("")
@@ -115,9 +106,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=403)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
 
         with pytest.raises(PonsApiRequestError):
             _ = pd.search("")
@@ -127,9 +116,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=500)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
 
         with pytest.raises(PonsApiRequestError):
             _ = pd.search("")
@@ -139,9 +126,7 @@ class TestPonsDictionary:
         responses.add(responses.GET, "https://api.pons.com/v1/dictionary",
                       json={}, status=503)
 
-        pd = PonsDictionary(from_language="fr",
-                            to_language="de",
-                            api_key="SECRET")
+        pd = PonsDictionary("SECRET", "defr")
 
         with pytest.raises(PonsApiRequestError):
             _ = pd.search("")
